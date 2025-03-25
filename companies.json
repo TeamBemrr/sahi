@@ -1,0 +1,6933 @@
+
+[
+    {
+      "name": "20 Microns Limited",
+      "nsc": "20MICRONS"
+    },
+    {
+      "name": "21st Century Management Services Limited",
+      "nsc": "21STCENMGM"
+    },
+    {
+      "name": "360 ONE WAM Limited",
+      "nsc": "360ONE"
+    },
+    {
+      "name": "3i Infotech Limited",
+      "nsc": "3IINFOLTD"
+    },
+    {
+      "name": "3M India Limited",
+      "nsc": "3MINDIA"
+    },
+    {
+      "name": "3P Land Holdings Limited",
+      "nsc": "3PLAND"
+    },
+    {
+      "name": "5Paisa Capital Limited",
+      "nsc": "5PAISA"
+    },
+    {
+      "name": "63 Moons Technologies Limited",
+      "nsc": "63MOONS"
+    },
+    {
+      "name": "A2Z Infra Engineering Limited",
+      "nsc": "A2ZINFRA"
+    },
+    {
+      "name": "AAA Technologies Limited",
+      "nsc": "AAATECH"
+    },
+    {
+      "name": "Aakash Explosives Limited",
+      "nsc": "AAKASH"
+    },
+    {
+      "name": "Aarey Drugs & Pharmaceuticals Limited",
+      "nsc": "AAREYDRUGS"
+    },
+    {
+      "name": "Aaron Industries Limited",
+      "nsc": "AARON"
+    },
+    {
+      "name": "Aartech Solonics Limited",
+      "nsc": "AARTECH"
+    },
+    {
+      "name": "Aarti Drugs Limited",
+      "nsc": "AARTIDRUGS"
+    },
+    {
+      "name": "Aarti Industries Limited",
+      "nsc": "AARTIIND"
+    },
+    {
+      "name": "Aarti Pharmaceuticals Limited",
+      "nsc": "AARTIPHARM"
+    },
+    {
+      "name": "Aarti Surfactants Limited",
+      "nsc": "AARTISURF"
+    },
+    {
+      "name": "Aarvee Denim and Exports Limited",
+      "nsc": "AARVEEDEN"
+    },
+    {
+      "name": "Aarvi Encon Limited",
+      "nsc": "AARVI"
+    },
+    {
+      "name": "Aavas Financiers Limited",
+      "nsc": "AAVAS"
+    },
+    {
+      "name": "Aban Offshore Limited",
+      "nsc": "ABAN"
+    },
+    {
+      "name": "ABB India Limited",
+      "nsc": "ABB"
+    },
+    {
+      "name": "Abbott India Limited",
+      "nsc": "ABBOTINDIA"
+    },
+    {
+      "name": "Aditya Birla Capital Limited",
+      "nsc": "ABCAPITAL"
+    },
+    {
+      "name": "Aditya Birla Fashion and Retail Limited",
+      "nsc": "ABFRL"
+    },
+    {
+      "name": "ABM International Limited",
+      "nsc": "ABMINTLLTD"
+    },
+    {
+      "name": "Aditya Birla Sun Life AMC Limited",
+      "nsc": "ABSLAMC"
+    },
+    {
+      "name": "ACC Limited",
+      "nsc": "ACC"
+    },
+    {
+      "name": "Accelya Solutions India Limited",
+      "nsc": "ACCELYA"
+    },
+    {
+      "name": "Accuracy Shipping Limited",
+      "nsc": "ACCURACY"
+    },
+    {
+      "name": "Action Construction Equipment Limited",
+      "nsc": "ACE"
+    },
+    {
+      "name": "Ace Integrated Solutions Limited",
+      "nsc": "ACEINTEG"
+    },
+    {
+      "name": "ACI Infocom Limited",
+      "nsc": "ACI"
+    },
+    {
+      "name": "ACL Gati Limited",
+      "nsc": "ACL"
+    },
+    {
+      "name": "ACL Gati Limited",
+      "nsc": "ACLGATI"
+    },
+    {
+      "name": "Adani Energy Solutions Limited",
+      "nsc": "ADANIENSOL"
+    },
+    {
+      "name": "Adani Enterprises Limited",
+      "nsc": "ADANIENT"
+    },
+    {
+      "name": "Adani Green Energy Limited",
+      "nsc": "ADANIGREEN"
+    },
+    {
+      "name": "Adani Ports and Special Economic Zone Limited",
+      "nsc": "ADANIPORTS"
+    },
+    {
+      "name": "Adani Power Limited",
+      "nsc": "ADANIPOWER"
+    },
+    {
+      "name": "ADF Foods Limited",
+      "nsc": "ADFFOODS"
+    },
+    {
+      "name": "Allied Digital Services Limited",
+      "nsc": "ADL"
+    },
+    {
+      "name": "Ador Welding Limited",
+      "nsc": "ADORWELD"
+    },
+    {
+      "name": "Adroit Infotech Limited",
+      "nsc": "ADROITINFO"
+    },
+    {
+      "name": "Allied Digital Services Limited",
+      "nsc": "ADSL"
+    },
+    {
+      "name": "Advani Hotels and Resorts (India) Limited",
+      "nsc": "ADVANIHOTR"
+    },
+    {
+      "name": "Advanced Enzymes Technologies Limited",
+      "nsc": "ADVENZYMES"
+    },
+    {
+      "name": "Aegis Logistics Limited",
+      "nsc": "AEGISLOG"
+    },
+    {
+      "name": "Aether Industries Limited",
+      "nsc": "AETHER"
+    },
+    {
+      "name": "Affle (India) Limited",
+      "nsc": "AFFLE"
+    },
+    {
+      "name": "Agarwal Industrial Corporation Limited",
+      "nsc": "AGARIND"
+    },
+    {
+      "name": "AGI Greenpac Limited",
+      "nsc": "AGI"
+    },
+    {
+      "name": "Agri-Tech (India) Limited",
+      "nsc": "AGRITECH"
+    },
+    {
+      "name": "Agro Phos (India) Ltd",
+      "nsc": "AGROPHOS"
+    },
+    {
+      "name": "Agstra Agrotech Limited",
+      "nsc": "AGSTRA"
+    },
+    {
+      "name": "AHL Limited",
+      "nsc": "AHL"
+    },
+    {
+      "name": "Ahlada Engineers Limited",
+      "nsc": "AHLADA"
+    },
+    {
+      "name": "Asian Hotels (East) Limited",
+      "nsc": "AHLEAST"
+    },
+    {
+      "name": "Ahluwalia Contracts (India) Limited",
+      "nsc": "AHLUCONT"
+    },
+    {
+      "name": "AIA Engineering Limited",
+      "nsc": "AIAENG"
+    },
+    {
+      "name": "Airan Limited",
+      "nsc": "AIRAN"
+    },
+    {
+      "name": "Airolam Limited",
+      "nsc": "AIROLAM"
+    },
+    {
+      "name": "Ajanta Pharma Limited",
+      "nsc": "AJANTPHARM"
+    },
+    {
+      "name": "Ajmera Realty & Infra India Limited",
+      "nsc": "AJMERA"
+    },
+    {
+      "name": "Ajooni Biotech Limited",
+      "nsc": "AJOONI"
+    },
+    {
+      "name": "Akash Infra-Projects Limited",
+      "nsc": "AKASH"
+    },
+    {
+      "name": "AKG Exim Limited",
+      "nsc": "AKG"
+    },
+    {
+      "name": "AKI India Limited",
+      "nsc": "AKI"
+    },
+    {
+      "name": "Akshar Spintex Limited",
+      "nsc": "AKSHAR"
+    },
+    {
+      "name": "Akshar Chem India Limited",
+      "nsc": "AKSHARCHEM"
+    },
+    {
+      "name": "Aksh Optifibre Limited",
+      "nsc": "AKSHOPTFBR"
+    },
+    {
+      "name": "Akzo Nobel India Limited",
+      "nsc": "AKZOINDIA"
+    },
+    {
+      "name": "Alankit Limited",
+      "nsc": "ALANKIT"
+    },
+    {
+      "name": "Albert David Limited",
+      "nsc": "ALBERTDAVD"
+    },
+    {
+      "name": "Alembic Limited",
+      "nsc": "ALEMBICLTD"
+    },
+    {
+      "name": "Alicon Castalloy Limited",
+      "nsc": "ALICON"
+    },
+    {
+      "name": "Alkali Metals Limited",
+      "nsc": "ALKALI"
+    },
+    {
+      "name": "Alkem Laboratories Limited",
+      "nsc": "ALKEM"
+    },
+    {
+      "name": "Alkyl Amines Chemicals Limited",
+      "nsc": "ALKYLAMINE"
+    },
+    {
+      "name": "Allcargo Logistics Limited",
+      "nsc": "ALLCARGO"
+    },
+    {
+      "name": "Allied Digital Services Limited",
+      "nsc": "ALLDIGI"
+    },
+    {
+      "name": "Almondz Global Securities Limited",
+      "nsc": "ALMONDZ"
+    },
+    {
+      "name": "Alok Industries Limited",
+      "nsc": "ALOKINDS"
+    },
+    {
+      "name": "Alpa Laboratories Limited",
+      "nsc": "ALPA"
+    },
+    {
+      "name": "Alphageo (India) Limited",
+      "nsc": "ALPHAGEO"
+    },
+    {
+      "name": "Alps Industries Limited",
+      "nsc": "ALPSINDUS"
+    },
+    {
+      "name": "Amber Enterprises India Limited",
+      "nsc": "AMBER"
+    },
+    {
+      "name": "Ambica Agarbathies & Aromas Ltd",
+      "nsc": "AMBICAAGAR"
+    },
+    {
+      "name": "Ambika Cotton Mills Limited",
+      "nsc": "AMBIKCO"
+    },
+    {
+      "name": "Ambuja Cements Limited",
+      "nsc": "AMBUJACEM"
+    },
+    {
+      "name": "AMD Industries Limited",
+      "nsc": "AMDIND"
+    },
+    {
+      "name": "Ami Organics Limited",
+      "nsc": "AMIORG"
+    },
+    {
+      "name": "Amj Land Holdings Limited",
+      "nsc": "AMJLAND"
+    },
+    {
+      "name": "Amrutanjan Health Care Limited",
+      "nsc": "AMRUTANJAN"
+    },
+    {
+      "name": "Anand Rathi Wealth Limited",
+      "nsc": "ANANDRATHI"
+    },
+    {
+      "name": "Anant Raj Limited",
+      "nsc": "ANANTRAJ"
+    },
+    {
+      "name": "Andhra Paper Limited",
+      "nsc": "ANDHRAPAP"
+    },
+    {
+      "name": "The Andhra Sugars Limited",
+      "nsc": "ANDHRSUGAR"
+    },
+    {
+      "name": "Angel One Limited",
+      "nsc": "ANGELONE"
+    },
+    {
+      "name": "Anik Industries Limited",
+      "nsc": "ANIKINDS"
+    },
+    {
+      "name": "Ankit Metal & Power Limited",
+      "nsc": "ANKITMETAL"
+    },
+    {
+      "name": "Anmol India Limited",
+      "nsc": "ANMOL"
+    },
+    {
+      "name": "Ansal Properties & Infrastructure Limited",
+      "nsc": "ANSALAPI"
+    },
+    {
+      "name": "Antarctica Limited",
+      "nsc": "ANTGRAPHIC"
+    },
+    {
+      "name": "The Anup Engineering Limited",
+      "nsc": "ANUP"
+    },
+    {
+      "name": "Anupam Rasayan India Limited",
+      "nsc": "ANURAS"
+    },
+    {
+      "name": "Apar Industries Limited",
+      "nsc": "APARINDS"
+    },
+    {
+      "name": "Andhra Petrochemicals Limited",
+      "nsc": "APCL"
+    },
+    {
+      "name": "Apcotex Industries Limited",
+      "nsc": "APCOTEXIND"
+    },
+    {
+      "name": "Apex Frozen Foods Limited",
+      "nsc": "APEX"
+    },
+    {
+      "name": "APL Apollo Tubes Limited",
+      "nsc": "APLAPOLLO"
+    },
+    {
+      "name": "Alembic Pharmaceuticals Limited",
+      "nsc": "APLLTD"
+    },
+    {
+      "name": "Apollo Hospitals Enterprise Limited",
+      "nsc": "APOLLO"
+    },
+    {
+      "name": "Apollo Hospitals Enterprise Limited",
+      "nsc": "APOLLOHOSP"
+    },
+    {
+      "name": "Apollo Pipes Limited",
+      "nsc": "APOLLOPIPE"
+    },
+    {
+      "name": "Apollo Tyres Limited",
+      "nsc": "APOLLOTYRE"
+    },
+    {
+      "name": "Apollo Sindoori Hotels Limited",
+      "nsc": "APOLSINHOT"
+    },
+    {
+      "name": "Aptech Limited",
+      "nsc": "APTECHT"
+    },
+    {
+      "name": "Aptus Value Housing Finance India Limited",
+      "nsc": "APTUS"
+    },
+    {
+      "name": "Archidply Industries Limited",
+      "nsc": "ARCHIDPLY"
+    },
+    {
+      "name": "Archies Limited",
+      "nsc": "ARCHIES"
+    },
+    {
+      "name": "Automobile Corporation of Goa Limited",
+      "nsc": "ARE&M"
+    },
+    {
+      "name": "Arex Industries Limited",
+      "nsc": "ARENTERP"
+    },
+    {
+      "name": "Aries Agro Limited",
+      "nsc": "ARIES"
+    },
+    {
+      "name": "Arihant Capital Markets Limited",
+      "nsc": "ARIHANTCAP"
+    },
+    {
+      "name": "Arihant Superstructures Limited",
+      "nsc": "ARIHANTSUP"
+    },
+    {
+      "name": "Arman Financial Services Limited",
+      "nsc": "ARMANFIN"
+    },
+    {
+      "name": "Aro Granite Industries Limited",
+      "nsc": "AROGRANITE"
+    },
+    {
+      "name": "Arrow Greentech Limited",
+      "nsc": "ARROWGREEN"
+    },
+    {
+      "name": "Arshiya Limited",
+      "nsc": "ARSHIYA"
+    },
+    {
+      "name": "ARSS Infrastructure Projects Limited",
+      "nsc": "ARSSINFRA"
+    },
+    {
+      "name": "Artemis Medicare Services Limited",
+      "nsc": "ARTEMISMED"
+    },
+    {
+      "name": "Art Nirman Limited",
+      "nsc": "ARTNIRMAN"
+    },
+    {
+      "name": "Arvee Laboratories (India) Limited",
+      "nsc": "ARVEE"
+    },
+    {
+      "name": "Arvind Limited",
+      "nsc": "ARVIND"
+    },
+    {
+      "name": "Arvind Fashions Limited",
+      "nsc": "ARVINDFASN"
+    },
+    {
+      "name": "Arvind SmartSpaces Limited",
+      "nsc": "ARVSMART"
+    },
+    {
+      "name": "Asahi India Glass Limited",
+      "nsc": "ASAHIINDIA"
+    },
+    {
+      "name": "Asahi Songwon Colors Limited",
+      "nsc": "ASAHISONG"
+    },
+    {
+      "name": "Automotive Stampings and Assemblies Limited",
+      "nsc": "ASAL"
+    },
+    {
+      "name": "Associated Alcohols & Breweries Limited",
+      "nsc": "ASALCBR"
+    },
+    {
+      "name": "Ashapura Minechem Limited",
+      "nsc": "ASHAPURMIN"
+    },
+    {
+      "name": "Ashiana Housing Limited",
+      "nsc": "ASHIANA"
+    },
+    {
+      "name": "Ashima Limited",
+      "nsc": "ASHIMASYN"
+    },
+    {
+      "name": "Ashoka Buildcon Limited",
+      "nsc": "ASHOKA"
+    },
+    {
+      "name": "Ashoka Metcast Limited",
+      "nsc": "ASHOKAMET"
+    },
+    {
+      "name": "Ashok Leyland Limited",
+      "nsc": "ASHOKLEY"
+    },
+    {
+      "name": "Asian Energy Services Limited",
+      "nsc": "ASIANENE"
+    },
+    {
+      "name": "Asian Hotels (North) Limited",
+      "nsc": "ASIANHOTNR"
+    },
+    {
+      "name": "Asian Paints Limited",
+      "nsc": "ASIANPAINT"
+    },
+    {
+      "name": "Asian Granito India Limited",
+      "nsc": "ASIANTILES"
+    },
+    {
+      "name": "Aster DM Healthcare Limited",
+      "nsc": "ASTERDM"
+    },
+    {
+      "name": "Astral Limited",
+      "nsc": "ASTRAL"
+    },
+    {
+      "name": "Astra Microwave Products Limited",
+      "nsc": "ASTRAMICRO"
+    },
+    {
+      "name": "AstraZeneca Pharma India Limited",
+      "nsc": "ASTRAZEN"
+    },
+    {
+      "name": "Astron Paper & Board Mill Limited",
+      "nsc": "ASTRON"
+    },
+    {
+      "name": "Atal Realtech Limited",
+      "nsc": "ATALREAL"
+    },
+    {
+      "name": "Atam Valves Limited",
+      "nsc": "ATAM"
+    },
+    {
+      "name": "Agro Tech Foods Limited",
+      "nsc": "ATFL"
+    },
+    {
+      "name": "Adani Total Gas Limited",
+      "nsc": "ATGL"
+    },
+    {
+      "name": "Atlanta Limited",
+      "nsc": "ATLANTAA"
+    },
+    {
+      "name": "Atul Limited",
+      "nsc": "ATUL"
+    },
+    {
+      "name": "Atul Auto Limited",
+      "nsc": "ATULAUTO"
+    },
+    {
+      "name": "AU Small Finance Bank Limited",
+      "nsc": "AUBANK"
+    },
+    {
+      "name": "Aurionpro Solutions Limited",
+      "nsc": "AURIONPRO"
+    },
+    {
+      "name": "Aurobindo Pharma Limited",
+      "nsc": "AUROPHARMA"
+    },
+    {
+      "name": "Aurum PropTech Limited",
+      "nsc": "AURUM"
+    },
+    {
+      "name": "Automotive Axles Limited",
+      "nsc": "AUTOAXLES"
+    },
+    {
+      "name": "Autoline Industries Limited",
+      "nsc": "AUTOIND"
+    },
+    {
+      "name": "Avadh Sugar & Energy Limited",
+      "nsc": "AVADHSUGAR"
+    },
+    {
+      "name": "Avalon Technologies Limited",
+      "nsc": "AVALON"
+    },
+    {
+      "name": "Avanti Feeds Limited",
+      "nsc": "AVANTIFEED"
+    },
+    {
+      "name": "AVG Logistics Limited",
+      "nsc": "AVG"
+    },
+    {
+      "name": "Avonmore Capital & Management Services Limited",
+      "nsc": "AVONMORE"
+    },
+    {
+      "name": "Avro India Limited",
+      "nsc": "AVROIND"
+    },
+    {
+      "name": "AVT Natural Products Limited",
+      "nsc": "AVTNPL"
+    },
+    {
+      "name": "Antony Waste Handling Cell Limited",
+      "nsc": "AWHCL"
+    },
+    {
+      "name": "Adani Wilmar Limited",
+      "nsc": "AWL"
+    },
+    {
+      "name": "Axis Bank Limited",
+      "nsc": "AXISBANK"
+    },
+    {
+      "name": "AXISCADES Technologies Limited",
+      "nsc": "AXISCADES"
+    },
+    {
+      "name": "Axita Cotton Limited",
+      "nsc": "AXITA"
+    },
+    {
+      "name": "AYM Syntex Limited",
+      "nsc": "AYMSYNTEX"
+    },
+    {
+      "name": "Bafna Pharmaceuticals Limited",
+      "nsc": "BAFNAPH"
+    },
+    {
+      "name": "Bag Films & Media Limited",
+      "nsc": "BAGFILMS"
+    },
+    {
+      "name": "Baid Finserv Limited",
+      "nsc": "BAIDFIN"
+    },
+    {
+      "name": "Bajaj Auto Limited",
+      "nsc": "BAJAJ-AUTO"
+    },
+    {
+      "name": "Bajaj Consumer Care Limited",
+      "nsc": "BAJAJCON"
+    },
+    {
+      "name": "Bajaj Electricals Limited",
+      "nsc": "BAJAJELEC"
+    },
+    {
+      "name": "Bajaj Finserv Limited",
+      "nsc": "BAJAJFINSV"
+    },
+    {
+      "name": "Bajaj Healthcare Limited",
+      "nsc": "BAJAJHCARE"
+    },
+    {
+      "name": "Bajaj Hindusthan Sugar Limited",
+      "nsc": "BAJAJHIND"
+    },
+    {
+      "name": "Bajaj Holdings & Investment Limited",
+      "nsc": "BAJAJHLDNG"
+    },
+    {
+      "name": "Bajaj Finance Limited",
+      "nsc": "BAJFINANCE"
+    },
+    {
+      "name": "Balaji Telefilms Limited",
+      "nsc": "BALAJITELE"
+    },
+    {
+      "name": "Balaji Amines Limited",
+      "nsc": "BALAMINES"
+    },
+    {
+      "name": "Balaxi Pharmaceuticals Limited",
+      "nsc": "BALAXI"
+    },
+    {
+      "name": "Balkrishna Paper Mills Limited",
+      "nsc": "BALKRISHNA"
+    },
+    {
+      "name": "Balkrishna Industries Limited",
+      "nsc": "BALKRISIND"
+    },
+    {
+      "name": "Balmer Lawrie & Company Limited",
+      "nsc": "BALMLAWRIE"
+    },
+    {
+      "name": "Bal Pharma Limited",
+      "nsc": "BALPHARMA"
+    },
+    {
+      "name": "Balrampur Chini Mills Limited",
+      "nsc": "BALRAMCHIN"
+    },
+    {
+      "name": "Banaras Beads Limited",
+      "nsc": "BANARBEADS"
+    },
+    {
+      "name": "Bannari Amman Sugars Limited",
+      "nsc": "BANARISUG"
+    },
+    {
+      "name": "Banco Products India Limited",
+      "nsc": "BANCOINDIA"
+    },
+    {
+      "name": "Bandhan Bank Limited",
+      "nsc": "BANDHANBNK"
+    },
+    {
+      "name": "Bang Overseas Limited",
+      "nsc": "BANG"
+    },
+    {
+      "name": "Banka Bioloo Limited",
+      "nsc": "BANKA"
+    },
+    {
+      "name": "Bank of Baroda",
+      "nsc": "BANKBARODA"
+    },
+    {
+      "name": "Bank of India",
+      "nsc": "BANKINDIA"
+    },
+    {
+      "name": "Banswara Syntex Limited",
+      "nsc": "BANSWRAS"
+    },
+    {
+      "name": "Barbeque Nation Hospitality Limited",
+      "nsc": "BARBEQUE"
+    },
+    {
+      "name": "BASF India Limited",
+      "nsc": "BASF"
+    },
+    {
+      "name": "Bannari Amman Spinning Mills Limited",
+      "nsc": "BASML"
+    },
+    {
+      "name": "Bata India Limited",
+      "nsc": "BATAINDIA"
+    },
+    {
+      "name": "Bayer CropScience Limited",
+      "nsc": "BAYERCROP"
+    },
+    {
+      "name": "Bharat Bijlee Limited",
+      "nsc": "BBL"
+    },
+    {
+      "name": "BlackBox Limited",
+      "nsc": "BBOX"
+    },
+    {
+      "name": "Bombay Burmah Trading Corporation Limited",
+      "nsc": "BBTC"
+    },
+    {
+      "name": "Bombay Burmah Trading Corporation Limited",
+      "nsc": "BBTCL"
+    },
+    {
+      "name": "Brightcom Group Limited",
+      "nsc": "BCG"
+    },
+    {
+      "name": "BCL Industries Limited",
+      "nsc": "BCLIND"
+    },
+    {
+      "name": "Brand Concepts Limited",
+      "nsc": "BCONCEPTS"
+    },
+    {
+      "name": "Bharat Dynamics Limited",
+      "nsc": "BDL"
+    },
+    {
+      "name": "Beardsell Limited",
+      "nsc": "BEARDSELL"
+    },
+    {
+      "name": "Mrs Bectors Food Specialities Limited",
+      "nsc": "BECTORFOOD"
+    },
+    {
+      "name": "Bedmutha Industries Limited",
+      "nsc": "BEDMUTHA"
+    },
+    {
+      "name": "Bharat Electronics Limited",
+      "nsc": "BEL"
+    },
+    {
+      "name": "BEML Limited",
+      "nsc": "BEML"
+    },
+    {
+      "name": "Bhansali Engineering Polymers Limited",
+      "nsc": "BEPL"
+    },
+    {
+      "name": "Berger Paints India Limited",
+      "nsc": "BERGEPAINT"
+    },
+    {
+      "name": "Best Agro Life Limited",
+      "nsc": "BESTAGRO"
+    },
+    {
+      "name": "Bajaj Finserv Limited",
+      "nsc": "BFINVEST"
+    },
+    {
+      "name": "BF Utilities Limited",
+      "nsc": "BFUTILITIE"
+    },
+    {
+      "name": "Bharatiya Global Infomedia Limited",
+      "nsc": "BGLOBAL"
+    },
+    {
+      "name": "BGR Energy Systems Limited",
+      "nsc": "BGRENERGY"
+    },
+    {
+      "name": "Bhagiradha Chemicals and Industries Limited",
+      "nsc": "BHAGCHEM"
+    },
+    {
+      "name": "Bhageria Industries Limited",
+      "nsc": "BHAGERIA"
+    },
+    {
+      "name": "Bhagyanagar India Limited",
+      "nsc": "BHAGYANGR"
+    },
+    {
+      "name": "Bhandari Hosiery Exports Limited",
+      "nsc": "BHANDARI"
+    },
+    {
+      "name": "Bharat Forge Limited",
+      "nsc": "BHARATFORG"
+    },
+    {
+      "name": "Bharat Gears Limited",
+      "nsc": "BHARATGEAR"
+    },
+    {
+      "name": "Bharat Rasayan Limited",
+      "nsc": "BHARATRAS"
+    },
+    {
+      "name": "Bharat Wire Ropes Limited",
+      "nsc": "BHARATWIRE"
+    },
+    {
+      "name": "Bharti Airtel Limited",
+      "nsc": "BHARTIARTL"
+    },
+    {
+      "name": "Bharat Heavy Electricals Limited",
+      "nsc": "BHEL"
+    },
+    {
+      "name": "Bigbloc Construction Limited",
+      "nsc": "BIGBLOC"
+    },
+    {
+      "name": "Bikaji Foods International Limited",
+      "nsc": "BIKAJI"
+    },
+    {
+      "name": "Bombay Industries Limited",
+      "nsc": "BIL"
+    },
+    {
+      "name": "Binani Industries Limited",
+      "nsc": "BINANIIND"
+    },
+    {
+      "name": "Biocon Limited",
+      "nsc": "BIOCON"
+    },
+    {
+      "name": "Biofil Chemicals and Pharmaceuticals Limited",
+      "nsc": "BIOFILCHEM"
+    },
+    {
+      "name": "Birla Cable Limited",
+      "nsc": "BIRLACABLE"
+    },
+    {
+      "name": "Birla Corporation Limited",
+      "nsc": "BIRLACORPN"
+    },
+    {
+      "name": "Aditya Birla Money Limited",
+      "nsc": "BIRLAMONEY"
+    },
+    {
+      "name": "BKM Industries Limited",
+      "nsc": "BKMINDST"
+    },
+    {
+      "name": "Bharat Immunologicals and Biologicals Corporation Limited",
+      "nsc": "BLAL"
+    },
+    {
+      "name": "BLB Limited",
+      "nsc": "BLBLIMITED"
+    },
+    {
+      "name": "Bliss GVS Pharma Limited",
+      "nsc": "BLISSGVS"
+    },
+    {
+      "name": "B.L. Kashyap and Sons Limited",
+      "nsc": "BLKASHYAP"
+    },
+    {
+      "name": "BLS International Services Limited",
+      "nsc": "BLS"
+    },
+    {
+      "name": "Bluechip India Limited",
+      "nsc": "BLUECHIP"
+    },
+    {
+      "name": "Blue Coast Hotels Limited",
+      "nsc": "BLUECOAST"
+    },
+    {
+      "name": "Blue Dart Express Limited",
+      "nsc": "BLUEDART"
+    },
+    {
+      "name": "Blue Star Limited",
+      "nsc": "BLUESTARCO"
+    },
+    {
+      "name": "Bodal Chemicals Limited",
+      "nsc": "BODALCHEM"
+    },
+    {
+      "name": "Bohra Industries Limited",
+      "nsc": "BOHRAIND"
+    },
+    {
+      "name": "Bombay Dyeing and Manufacturing Company Limited",
+      "nsc": "BOMDYEING"
+    },
+    {
+      "name": "Borosil Limited",
+      "nsc": "BOROLTD"
+    },
+    {
+      "name": "Borosil Renewables Limited",
+      "nsc": "BORORENEW"
+    },
+    {
+      "name": "Bosch Limited",
+      "nsc": "BOSCHLTD"
+    },
+    {
+      "name": "Bharat Petroleum Corporation Limited",
+      "nsc": "BPCL"
+    },
+    {
+      "name": "BPL Limited",
+      "nsc": "BPL"
+    },
+    {
+      "name": "Brigade Enterprises Limited",
+      "nsc": "BRIGADE"
+    },
+    {
+      "name": "Britannia Industries Limited",
+      "nsc": "BRITANNIA"
+    },
+    {
+      "name": "Bharat Road Network Limited",
+      "nsc": "BRNL"
+    },
+    {
+      "name": "Brooks Laboratories Limited",
+      "nsc": "BROOKS"
+    },
+    {
+      "name": "BSE Limited",
+      "nsc": "BSE"
+    },
+    {
+      "name": "Bombay Super Hybrid Seeds Limited",
+      "nsc": "BSHSL"
+    },
+    {
+      "name": "BSL Limited",
+      "nsc": "BSL"
+    },
+    {
+      "name": "Birlasoft Limited",
+      "nsc": "BSOFT"
+    },
+    {
+      "name": "Bharat Textiles & Proofing Industries Limited",
+      "nsc": "BTML"
+    },
+    {
+      "name": "Burnpur Cement Limited",
+      "nsc": "BURNPUR"
+    },
+    {
+      "name": "Butterfly Gandhimathi Appliances Limited",
+      "nsc": "BUTTERFLY"
+    },
+    {
+      "name": "Bharat Vinyl Corporation Limited",
+      "nsc": "BVCL"
+    },
+    {
+      "name": "The Byke Hospitality Limited",
+      "nsc": "BYKE"
+    },
+    {
+      "name": "California Software Company Limited",
+      "nsc": "CALSOFT"
+    },
+    {
+      "name": "Camlin Fine Sciences Limited",
+      "nsc": "CAMLINFINE"
+    },
+    {
+      "name": "Campus Activewear Limited",
+      "nsc": "CAMPUS"
+    },
+    {
+      "name": "Computer Age Management Services Limited",
+      "nsc": "CAMS"
+    },
+    {
+      "name": "Canara Bank",
+      "nsc": "CANBANK"
+    },
+    {
+      "name": "Can Fin Homes Limited",
+      "nsc": "CANFINHOME"
+    },
+    {
+      "name": "Cantabil Retail India Limited",
+      "nsc": "CANTABIL"
+    },
+    {
+      "name": "Capacite Infraprojects Limited",
+      "nsc": "CAPACITE"
+    },
+    {
+      "name": "Caplin Point Laboratories Limited",
+      "nsc": "CAPLIPOINT"
+    },
+    {
+      "name": "Captrust Financial Advisors",
+      "nsc": "CAPTRUST"
+    },
+    {
+      "name": "Carborundum Universal Limited",
+      "nsc": "CARBORUNIV"
+    },
+    {
+      "name": "Career Point Limited",
+      "nsc": "CAREERP"
+    },
+    {
+      "name": "CARE Ratings Limited",
+      "nsc": "CARERATING"
+    },
+    {
+      "name": "CarTrade Technologies Limited",
+      "nsc": "CARTRADE"
+    },
+    {
+      "name": "Acrysil Limited",
+      "nsc": "CARYSIL"
+    },
+    {
+      "name": "Castrol India Limited",
+      "nsc": "CASTROLIND"
+    },
+    {
+      "name": "CCL Products (India) Limited",
+      "nsc": "CCL"
+    },
+    {
+      "name": "Central Depository Services Limited",
+      "nsc": "CDSL"
+    },
+    {
+      "name": "CEAT Limited",
+      "nsc": "CEATLTD"
+    },
+    {
+      "name": "Century Enka Limited",
+      "nsc": "CENTENKA"
+    },
+    {
+      "name": "Century Textiles and Industries Limited",
+      "nsc": "CENTEXT"
+    },
+    {
+      "name": "Central Bank of India",
+      "nsc": "CENTRALBK"
+    },
+    {
+      "name": "Centrum Capital Limited",
+      "nsc": "CENTRUM"
+    },
+    {
+      "name": "Century Plyboards India Limited",
+      "nsc": "CENTURYPLY"
+    },
+    {
+      "name": "Cera Sanitaryware Limited",
+      "nsc": "CERA"
+    },
+    {
+      "name": "Cerebra Integrated Technologies Limited",
+      "nsc": "CEREBRAINT"
+    },
+    {
+      "name": "CESC Limited",
+      "nsc": "CESC"
+    },
+    {
+      "name": "CG Power and Industrial Solutions Limited",
+      "nsc": "CGPOWER"
+    },
+    {
+      "name": "Chalet Hotels Limited",
+      "nsc": "CHALET"
+    },
+    {
+      "name": "Chambal Fertilisers and Chemicals Limited",
+      "nsc": "CHAMBLFERT"
+    },
+    {
+      "name": "Chembond Chemicals Limited",
+      "nsc": "CHEMBOND"
+    },
+    {
+      "name": "Chemcon Speciality Chemicals Limited",
+      "nsc": "CHEMCON"
+    },
+    {
+      "name": "Chemplast Sanmar Limited",
+      "nsc": "CHEMPLASTS"
+    },
+    {
+      "name": "Chennai Petroleum Corporation Limited",
+      "nsc": "CHENNPETRO"
+    },
+    {
+      "name": "Cholamandalam Financial Holdings Limited",
+      "nsc": "CHOLAFIN"
+    },
+    {
+      "name": "Cholamandalam Investment and Finance Company Limited",
+      "nsc": "CHOLAHLDNG"
+    },
+    {
+      "name": "Cigniti Technologies Limited",
+      "nsc": "CIGNITITEC"
+    },
+    {
+      "name": "Cineline India Limited",
+      "nsc": "CINELINE"
+    },
+    {
+      "name": "Cinevista Limited",
+      "nsc": "CINEVISTA"
+    },
+    {
+      "name": "Cipla Limited",
+      "nsc": "CIPLA"
+    },
+    {
+      "name": "CLEAN Science and Technology Limited",
+      "nsc": "CLEAN"
+    },
+    {
+      "name": "CL Educate Limited",
+      "nsc": "CLEDUCATE"
+    },
+    {
+      "name": "Coal India Limited",
+      "nsc": "COALINDIA"
+    },
+    {
+      "name": "Coastal Corporation Limited",
+      "nsc": "COASTCORP"
+    },
+    {
+      "name": "Cochin Shipyard Limited",
+      "nsc": "COCHINSHIP"
+    },
+    {
+      "name": "Coffee Day Enterprises Limited",
+      "nsc": "COFFEEDAY"
+    },
+    {
+      "name": "Coforge Limited",
+      "nsc": "COFORGE"
+    },
+    {
+      "name": "Colgate-Palmolive (India) Limited",
+      "nsc": "COLPAL"
+    },
+    {
+      "name": "Container Corporation of India Limited",
+      "nsc": "CONCOR"
+    },
+    {
+      "name": "Confidence Petroleum India Limited",
+      "nsc": "CONFIPET"
+    },
+    {
+      "name": "Control Print Limited",
+      "nsc": "CONTROLPR"
+    },
+    {
+      "name": "Coromandel International Limited",
+      "nsc": "COROMANDEL"
+    },
+    {
+      "name": "Cosmo First Limited",
+      "nsc": "COSMOFIRST"
+    },
+    {
+      "name": "Craftsman Automation Limited",
+      "nsc": "CRAFTSMAN"
+    },
+    {
+      "name": "CreditAccess Grameen Limited",
+      "nsc": "CREDITACC"
+    },
+    {
+      "name": "CRISIL Limited",
+      "nsc": "CRISIL"
+    },
+    {
+      "name": "Crompton Greaves Consumer Electricals Limited",
+      "nsc": "CROMPTON"
+    },
+    {
+      "name": "CSB Bank Limited",
+      "nsc": "CSBBANK"
+    },
+    {
+      "name": "City Union Bank Limited",
+      "nsc": "CUB"
+    },
+    {
+      "name": "Cummins India Limited",
+      "nsc": "CUMMINSIND"
+    },
+    {
+      "name": "Cyient Limited",
+      "nsc": "CYIENT"
+    },
+    {
+      "name": "Dabur India Limited",
+      "nsc": "DABUR"
+    }
+  ,
+    {
+      "name": "Dalmia Bharat Limited",
+      "nsc": "DALBHARAT"
+    },
+    {
+      "name": "Dalmia Bharat Sugar and Industries Limited",
+      "nsc": "DALMIASUG"
+    },
+    {
+      "name": "Damodar Industries Limited",
+      "nsc": "DAMODARIND"
+    },
+    {
+      "name": "Dangee Dums Limited",
+      "nsc": "DANGEE"
+    },
+    {
+      "name": "Datamatics Global Services Limited",
+      "nsc": "DATAMATICS"
+    },
+    {
+      "name": "Data Patterns (India) Limited",
+      "nsc": "DATAPATTNS"
+    },
+    {
+      "name": "DB Corp Limited",
+      "nsc": "DBCORP"
+    },
+    {
+      "name": "Dilip Buildcon Limited",
+      "nsc": "DBL"
+    },
+    {
+      "name": "Dhani Services Limited",
+      "nsc": "DBOL"
+    },
+    {
+      "name": "DB Realty Limited",
+      "nsc": "DBREALTY"
+    },
+    {
+      "name": "DB Stock Brokers Limited",
+      "nsc": "DBSTOCKBRO"
+    },
+    {
+      "name": "Dishman Carbogen Amcis Limited",
+      "nsc": "DCAL"
+    },
+    {
+      "name": "DCB Bank Limited",
+      "nsc": "DCBBANK"
+    },
+    {
+      "name": "Dredging Corporation of India Limited",
+      "nsc": "DCI"
+    },
+    {
+      "name": "DCM Limited",
+      "nsc": "DCM"
+    },
+    {
+      "name": "DCM Financial Services Limited",
+      "nsc": "DCMFINSERV"
+    },
+    {
+      "name": "DCM Nouvelle Limited",
+      "nsc": "DCMNVL"
+    },
+    {
+      "name": "DCM Shriram Limited",
+      "nsc": "DCMSHRIRAM"
+    },
+    {
+      "name": "DCM Shriram Industries Limited",
+      "nsc": "DCMSRIND"
+    },
+    {
+      "name": "DCW Limited",
+      "nsc": "DCW"
+    },
+    {
+      "name": "DCX Systems Limited",
+      "nsc": "DCXINDIA"
+    },
+    {
+      "name": "Deccan Cements Limited",
+      "nsc": "DECCANCE"
+    },
+    {
+      "name": "Deepak Fertilizers and Petrochemicals Corporation Limited",
+      "nsc": "DEEPAKFERT"
+    },
+    {
+      "name": "Deepak Nitrite Limited",
+      "nsc": "DEEPAKNTR"
+    },
+    {
+      "name": "Deep Energy Resources Limited",
+      "nsc": "DEEPENR"
+    },
+    {
+      "name": "Deep Industries Limited",
+      "nsc": "DEEPINDS"
+    },
+    {
+      "name": "Delhivery Limited",
+      "nsc": "DELHIVERY"
+    },
+    {
+      "name": "Delphi World Money Limited",
+      "nsc": "DELPHIFX"
+    },
+    {
+      "name": "Delta Corp Limited",
+      "nsc": "DELTACORP"
+    },
+    {
+      "name": "Delta Magnets Limited",
+      "nsc": "DELTAMAGNT"
+    },
+    {
+      "name": "DEN Networks Limited",
+      "nsc": "DEN"
+    },
+    {
+      "name": "De Nora India Limited",
+      "nsc": "DENORA"
+    },
+    {
+      "name": "Dev Information Technology Limited",
+      "nsc": "DEVIT"
+    },
+    {
+      "name": "Devyani International Limited",
+      "nsc": "DEVYANI"
+    },
+    {
+      "name": "Digicontent Limited",
+      "nsc": "DGCONTENT"
+    },
+    {
+      "name": "Dhampur Sugar Mills Limited",
+      "nsc": "DHAMPURSUG"
+    },
+    {
+      "name": "Dhanlaxmi Bank Limited",
+      "nsc": "DHANBANK"
+    },
+    {
+      "name": "Dhani Services Limited",
+      "nsc": "DHANI"
+    },
+    {
+      "name": "Dhanuka Agritech Limited",
+      "nsc": "DHANUKA"
+    },
+    {
+      "name": "Dharmaj Crop Guard Limited",
+      "nsc": "DHARMAJ"
+    },
+    {
+      "name": "Dhruv Estates Limited",
+      "nsc": "DHRUV"
+    },
+    {
+      "name": "Dhunseri Investments Limited",
+      "nsc": "DHUNINV"
+    },
+    {
+      "name": "Diamines and Chemicals Limited",
+      "nsc": "DIAMINESQ"
+    },
+    {
+      "name": "Diamond YD Limited",
+      "nsc": "DIAMONDYD"
+    },
+    {
+      "name": "DIC India Limited",
+      "nsc": "DICIND"
+    },
+    {
+      "name": "Digispice Technologies Limited",
+      "nsc": "DIGISPICE"
+    },
+    {
+      "name": "Digjam Limited",
+      "nsc": "DIGJAMLMTD"
+    },
+    {
+      "name": "DIL Limited",
+      "nsc": "DIL"
+    },
+    {
+      "name": "Dish TV India Limited",
+      "nsc": "DISHTV"
+    },
+    {
+      "name": "Divgi TorqTransfer Systems Limited",
+      "nsc": "DIVGIITTS"
+    },
+    {
+      "name": "Divi's Laboratories Limited",
+      "nsc": "DIVISLAB"
+    },
+    {
+      "name": "Dixon Technologies (India) Limited",
+      "nsc": "DIXON"
+    },
+    {
+      "name": "DJ Mediaprint & Logistics Limited",
+      "nsc": "DJML"
+    },
+    {
+      "name": "DLF Limited",
+      "nsc": "DLF"
+    },
+    {
+      "name": "D-Link India Limited",
+      "nsc": "DLINKINDIA"
+    },
+    {
+      "name": "Avenue Supermarts Limited (DMart)",
+      "nsc": "DMART"
+    },
+    {
+      "name": "DMC Education Limited",
+      "nsc": "DMCC"
+    },
+    {
+      "name": "DNA Media Limited",
+      "nsc": "DNAMEDIA"
+    },
+    {
+      "name": "Dodla Dairy Limited",
+      "nsc": "DODLA"
+    },
+    {
+      "name": "Dolat Algotech Limited",
+      "nsc": "DOLATALGO"
+    },
+    {
+      "name": "Dollar Industries Limited",
+      "nsc": "DOLLAR"
+    },
+    {
+      "name": "Dolphin Offshore Enterprises Limited",
+      "nsc": "DOLPHIN"
+    },
+    {
+      "name": "Donear Industries Limited",
+      "nsc": "DONEAR"
+    },
+    {
+      "name": "D.P. Abhushan Limited",
+      "nsc": "DPABHUSHAN"
+    },
+    {
+      "name": "DPSC Limited",
+      "nsc": "DPSCLTD"
+    },
+    {
+      "name": "D P Wires Limited",
+      "nsc": "DPWIRES"
+    },
+    {
+      "name": "DRC Systems Limited",
+      "nsc": "DRCSYSTEMS"
+    },
+    {
+      "name": "Dreamfolks Services Limited",
+      "nsc": "DREAMFOLKS"
+    },
+    {
+      "name": "Dredging Corporation of India Limited",
+      "nsc": "DREDGECORP"
+    },
+    {
+      "name": "Dr. Reddy's Laboratories Limited",
+      "nsc": "DRREDDY"
+    },
+    {
+      "name": "Dhunseri Ventures Limited",
+      "nsc": "DSSL"
+    },
+    {
+      "name": "Dynacons Systems & Solutions Limited",
+      "nsc": "DTIL"
+    },
+    {
+      "name": "Ducon Infratechnologies Limited",
+      "nsc": "DUCON"
+    },
+    {
+      "name": "DVL Softech Limited",
+      "nsc": "DVL"
+    },
+    {
+      "name": "Dwarikesh Sugar Industries Limited",
+      "nsc": "DWARKESH"
+    },
+    {
+      "name": "Dye Chem Limited",
+      "nsc": "DYCL"
+    },
+    {
+      "name": "Dynamatic Technologies Limited",
+      "nsc": "DYNAMATECH"
+    },
+    {
+      "name": "Dynemic Products Limited",
+      "nsc": "DYNPRO"
+    },
+    {
+      "name": "E2E Networks Limited",
+      "nsc": "E2E"
+    },
+    {
+      "name": "EaseMyTrip Limited",
+      "nsc": "EASEMYTRIP"
+    },
+    {
+      "name": "eClerx Services Limited",
+      "nsc": "ECLERX"
+    },
+    {
+      "name": "Edelweiss Financial Services Limited",
+      "nsc": "EDELWEISS"
+    },
+    {
+      "name": "Educomp Solutions Limited",
+      "nsc": "EDUCOMP"
+    },
+    {
+      "name": "Eicher Motors Limited",
+      "nsc": "EICHERMOT"
+    },
+    {
+      "name": "EID Parry (India) Limited",
+      "nsc": "EIDPARRY"
+    },
+    {
+      "name": "Eiffel Investments Limited",
+      "nsc": "EIFFL"
+    },
+    {
+      "name": "EIH Associated Hotels Limited",
+      "nsc": "EIHAHOTELS"
+    },
+    {
+      "name": "EIH Limited (The Oberoi Group)",
+      "nsc": "EIHOTEL"
+    },
+    {
+      "name": "Eimco Elecon (India) Limited",
+      "nsc": "EIMCOELECO"
+    },
+    {
+      "name": "Everest Kanto Cylinder Limited",
+      "nsc": "EKC"
+    },
+    {
+      "name": "Eldeco Housing and Industries Limited",
+      "nsc": "ELDEHSG"
+    },
+    {
+      "name": "Elecon Engineering Company Limited",
+      "nsc": "ELECON"
+    },
+    {
+      "name": "Electrotherm (India) Limited",
+      "nsc": "ELECTCAST"
+    },
+    {
+      "name": "Electrotherm (India) Limited",
+      "nsc": "ELECTHERM"
+    },
+    {
+      "name": "Elgi Equipments Limited",
+      "nsc": "ELGIEQUIP"
+    },
+    {
+      "name": "Elgi Rubber Company Limited",
+      "nsc": "ELGIRUBCO"
+    },
+    {
+      "name": "Elin Electronics Limited",
+      "nsc": "ELIN"
+    },
+    {
+      "name": "Emami Limited",
+      "nsc": "EMAMILTD"
+    },
+    {
+      "name": "Emami Paper Mills Limited",
+      "nsc": "EMAMIPAP"
+    },
+    {
+      "name": "Emami Realty Limited",
+      "nsc": "EMAMIREAL"
+    },
+    {
+      "name": "Embee Distilleries Limited",
+      "nsc": "EMBDL"
+    },
+    {
+      "name": "Emkay Global Financial Services Limited",
+      "nsc": "EMKAY"
+    },
+    {
+      "name": "Emmbi Industries Limited",
+      "nsc": "EMMBI"
+    },
+    {
+      "name": "EMS Limited",
+      "nsc": "EMSLIMITED"
+    },
+    {
+      "name": "eMudhra Limited",
+      "nsc": "EMUDHRA"
+    },
+    {
+      "name": "Endurance Technologies Limited",
+      "nsc": "ENDURANCE"
+    },
+    {
+      "name": "Energy Development Company Limited",
+      "nsc": "ENERGYDEV"
+    },
+    {
+      "name": "Engineers India Limited",
+      "nsc": "ENGINERSIN"
+    },
+    {
+      "name": "Entertainment Network India Limited (ENIL)",
+      "nsc": "ENIL"
+    },
+    {
+      "name": "Epigral Limited",
+      "nsc": "EPIGRAL"
+    },
+    {
+      "name": "EPL Limited",
+      "nsc": "EPL"
+    },
+    {
+      "name": "Equippp Social Impact Technologies Limited",
+      "nsc": "EQUIPPP"
+    },
+    {
+      "name": "Equitas Small Finance Bank Limited",
+      "nsc": "EQUITASBNK"
+    },
+    {
+      "name": "Eris Lifesciences Limited",
+      "nsc": "ERIS"
+    },
+    {
+      "name": "Eros International Media Limited",
+      "nsc": "EROSMEDIA"
+    },
+    {
+      "name": "ESAB India Limited",
+      "nsc": "ESABINDIA"
+    },
+    {
+      "name": "Escorts Kubota Limited",
+      "nsc": "ESCORTS"
+    },
+    {
+      "name": "Essar Shipping Limited",
+      "nsc": "ESSARSHPNG"
+    },
+    {
+      "name": "Essentia Industries Limited",
+      "nsc": "ESSENTIA"
+    },
+    {
+      "name": "Ester Industries Limited",
+      "nsc": "ESTER"
+    },
+    {
+      "name": "Ethos Limited",
+      "nsc": "ETHOSLTD"
+    },
+    {
+      "name": "Eurotex Industries and Exports Limited",
+      "nsc": "EUROTEXIND"
+    },
+    {
+      "name": "Eveready Industries India Limited",
+      "nsc": "EVEREADY"
+    },
+    {
+      "name": "Everest Industries Limited",
+      "nsc": "EVERESTIND"
+    },
+    {
+      "name": "Excel Industries Limited",
+      "nsc": "EXCELINDUS"
+    },
+    {
+      "name": "Exide Industries Limited",
+      "nsc": "EXIDEIND"
+    },
+    {
+      "name": "Expleo Solutions Limited",
+      "nsc": "EXPLEOSOL"
+    },
+    {
+      "name": "Exxaro Tiles Limited",
+      "nsc": "EXXARO"
+    },
+    {
+      "name": "The Fertilizers and Chemicals Travancore Limited",
+      "nsc": "FACT"
+    },
+    {
+      "name": "Fairchem Organics Limited",
+      "nsc": "FAIRCHEMOR"
+    },
+    {
+      "name": "Faze Three Limited",
+      "nsc": "FAZE3Q"
+    },
+    {
+      "name": "Future Consumer Limited",
+      "nsc": "FCL"
+    },
+    {
+      "name": "Future Consumer Limited",
+      "nsc": "FCONSUMER"
+    },
+    {
+      "name": "FCS Software Solutions Limited",
+      "nsc": "FCSSOFT"
+    },
+    {
+      "name": "FDC Limited",
+      "nsc": "FDC"
+    },
+    {
+      "name": "The Federal Bank Limited",
+      "nsc": "FEDERALBNK"
+    },
+    {
+      "name": "Future Enterprises Limited",
+      "nsc": "FEL"
+    },
+    {
+      "name": "Fiberweb (India) Limited",
+      "nsc": "FIBERWEB"
+    },
+    {
+      "name": "FIEM Industries Limited",
+      "nsc": "FIEMIND"
+    },
+    {
+      "name": "Filatex India Limited",
+      "nsc": "FILATEX"
+    },
+    {
+      "name": "Finolex Cables Limited",
+      "nsc": "FINCABLES"
+    },
+    {
+      "name": "Fine Organic Industries Limited",
+      "nsc": "FINEORG"
+    },
+    {
+      "name": "Fino Payments Bank Limited",
+      "nsc": "FINOPB"
+    },
+    {
+      "name": "Finolex Industries Limited",
+      "nsc": "FINPIPE"
+    },
+    {
+      "name": "Five-Star Business Finance Limited",
+      "nsc": "FIVESTAR"
+    },
+    {
+      "name": "Flexituff Ventures International Limited",
+      "nsc": "FLEXITUFF"
+    },
+    {
+      "name": "Future Lifestyle Fashions Limited",
+      "nsc": "FLFL"
+    },
+    {
+      "name": "Gujarat Fluorochemicals Limited",
+      "nsc": "FLUOROCHEM"
+    },
+    {
+      "name": "Federal-Mogul Goetze India Limited",
+      "nsc": "FMGOETZE"
+    },
+    {
+      "name": "Future Market Networks Limited",
+      "nsc": "FMNL"
+    },
+    {
+      "name": "Focus Lighting and Fixtures Limited",
+      "nsc": "FOCUS"
+    },
+    {
+      "name": "Foods and Inns Limited",
+      "nsc": "FOODSIN"
+    },
+    {
+      "name": "Force Motors Limited",
+      "nsc": "FORCEMOT"
+    },
+    {
+      "name": "Fortis Healthcare Limited",
+      "nsc": "FORTIS"
+    },
+    {
+      "name": "Foseco India Limited",
+      "nsc": "FOSECOIND"
+    },
+    {
+      "name": "Future Supply Chain Solutions Limited",
+      "nsc": "FSC"
+    },
+    {
+      "name": "Firstsource Solutions Limited",
+      "nsc": "FSL"
+    },
+    {
+      "name": "Fusion Micro Finance Limited",
+      "nsc": "FUSION"
+    },
+    {
+      "name": "Gabriel India Limited",
+      "nsc": "GABRIEL"
+    },
+    {
+      "name": "Gujarat Ambuja Exports Limited",
+      "nsc": "GAEL"
+    },
+    {
+      "name": "GAIL (India) Limited",
+      "nsc": "GAIL"
+    },
+    {
+      "name": "Galaxy Surfactants Limited",
+      "nsc": "GALAXYSURF"
+    },
+    {
+      "name": "Gallantt Metal Limited",
+      "nsc": "GALLANTT"
+    },
+    {
+      "name": "Gandhi Special Tubes Limited",
+      "nsc": "GANDHITUBE"
+    },
+    {
+      "name": "Ganesh Ecosphere Limited",
+      "nsc": "GANECOS"
+    },
+    {
+      "name": "Ganesh Benzoplast Limited",
+      "nsc": "GANESHBE"
+    },
+    {
+      "name": "Ganesh Housing Corporation Limited",
+      "nsc": "GANESHHOUC"
+    },
+    {
+      "name": "Ganga Forging Limited",
+      "nsc": "GANGAFORGE"
+    },
+    {
+      "name": "Ganges Securities Limited",
+      "nsc": "GANGESSECU"
+    },
+    {
+      "name": "Gangotri Textiles Limited",
+      "nsc": "GANGOTRI"
+    },
+    {
+      "name": "Garware Technical Fibres Limited",
+      "nsc": "GARFIBRES"
+    },
+    {
+      "name": "GV Technologies and Development Limited",
+      "nsc": "GATECH"
+    },
+    {
+      "name": "Gateway Distriparks Limited",
+      "nsc": "GATEWAY"
+    },
+    {
+      "name": "Gaya Hardware Limited",
+      "nsc": "GAYAHWS"
+    },
+    {
+      "name": "Gaya Projects Limited",
+      "nsc": "GAYAPROJ"
+    },
+    {
+      "name": "GeeCee Ventures Limited",
+      "nsc": "GEECEE"
+    },
+    {
+      "name": "Geekay Wires Limited",
+      "nsc": "GEEKAYWIRE"
+    },
+    {
+      "name": "Generic Engineering Construction and Projects Limited",
+      "nsc": "GENCON"
+    },
+    {
+      "name": "Genesys International Corporation Limited",
+      "nsc": "GENESYS"
+    },
+    {
+      "name": "Gensol Engineering Limited",
+      "nsc": "GENSOL"
+    },
+    {
+      "name": "Genus Paper & Boards Limited",
+      "nsc": "GENUSPAPER"
+    },
+    {
+      "name": "Genus Power Infrastructures Limited",
+      "nsc": "GENUSPOWER"
+    },
+    {
+      "name": "Geojit Financial Services Limited",
+      "nsc": "GEOJITFSL"
+    },
+    {
+      "name": "Gujarat Environment Protection Infrastructure Limited",
+      "nsc": "GEPIL"
+    },
+    {
+      "name": "The Great Eastern Shipping Company Limited",
+      "nsc": "GESHIP"
+    },
+    {
+      "name": "GFL Limited",
+      "nsc": "GFLLIMITED"
+    },
+    {
+      "name": "G F Steel Limited",
+      "nsc": "GFSTEELS"
+    },
+    {
+      "name": "GHCL Limited",
+      "nsc": "GHCL"
+    },
+    {
+      "name": "GHCL Textiles Limited",
+      "nsc": "GHCLTEXTIL"
+    },
+    {
+      "name": "GIC Housing Finance Limited",
+      "nsc": "GICHSGFIN"
+    },
+    {
+      "name": "General Insurance Corporation of India",
+      "nsc": "GICRE"
+    },
+    {
+      "name": "Gillanders Arbuthnot and Company Limited",
+      "nsc": "GILLANDERS"
+    },
+    {
+      "name": "Gillette India Limited",
+      "nsc": "GILLETTE"
+    },
+    {
+      "name": "Ginni Filaments Limited",
+      "nsc": "GINNIFILA"
+    },
+    {
+      "name": "Gujarat Industries Power Company Limited",
+      "nsc": "GIPCL"
+    },
+    {
+      "name": "GKW Limited",
+      "nsc": "GKWLIMITED"
+    },
+    {
+      "name": "Gland Pharma Limited",
+      "nsc": "GLAND"
+    },
+    {
+      "name": "GlaxoSmithKline Pharmaceuticals Limited",
+      "nsc": "GLAXO"
+    },
+    {
+      "name": "Glenmark Pharmaceuticals Limited",
+      "nsc": "GLENMARK"
+    },
+    {
+      "name": "Global Longlife Hospital and Research Limited",
+      "nsc": "GLFL"
+    },
+    {
+      "name": "Global Vectra Helicorp Limited",
+      "nsc": "GLOBAL"
+    },
+    {
+      "name": "Global Vectra Helicorp Limited",
+      "nsc": "GLOBALVECT"
+    },
+    {
+      "name": "Globe International Carpets Limited",
+      "nsc": "GLOBE"
+    },
+    {
+      "name": "Globus Spirits Limited",
+      "nsc": "GLOBUSSPR"
+    },
+    {
+      "name": "G-Tec Jainx Education Limited",
+      "nsc": "GLS"
+    },
+    {
+      "name": "GM Breweries Limited",
+      "nsc": "GMBREW"
+    },
+    {
+      "name": "Gujarat Mineral Development Corporation Limited",
+      "nsc": "GMDCLTD"
+    },
+    {
+      "name": "GMM Pfaudler Limited",
+      "nsc": "GMMPFAUDLR"
+    },
+    {
+      "name": "GMR Infrastructure Limited",
+      "nsc": "GMRINFRA"
+    },
+    {
+      "name": "GMR Power & Urban Infra Limited",
+      "nsc": "GMRP&UI"
+    },
+    {
+      "name": "GNA Axles Limited",
+      "nsc": "GNA"
+    },
+    {
+      "name": "Gujarat Narmada Valley Fertilizers & Chemicals Limited",
+      "nsc": "GNFC"
+    },
+    {
+      "name": "Goa Carbon Limited",
+      "nsc": "GOACARBON"
+    },
+    {
+      "name": "GOCL Corporation Limited",
+      "nsc": "GOCLCORP"
+    },
+    {
+      "name": "Go Fashion (India) Limited",
+      "nsc": "GOCOLORS"
+    },
+    {
+      "name": "Godfrey Phillips India Limited",
+      "nsc": "GODFRYPHLP"
+    },
+    {
+      "name": "Godha Cabcon & Insulation Limited",
+      "nsc": "GODHA"
+    },
+    {
+      "name": "Godrej Agrovet Limited",
+      "nsc": "GODREJAGRO"
+    },
+    {
+      "name": "Godrej Consumer Products Limited",
+      "nsc": "GODREJCP"
+    },
+    {
+      "name": "Godrej Industries Limited",
+      "nsc": "GODREJIND"
+    },
+    {
+      "name": "Godrej Properties Limited",
+      "nsc": "GODREJPROP"
+    },
+    {
+      "name": "Goenka Diamond & Jewels Limited",
+      "nsc": "GOENKA"
+    },
+    {
+      "name": "Gokul Refoils & Solvent Limited",
+      "nsc": "GOKEX"
+    },
+    {
+      "name": "Gokul Agro Resources Limited",
+      "nsc": "GOKUL"
+    },
+    {
+      "name": "Gokul Agro Resources Limited",
+      "nsc": "GOKULAGRO"
+    },
+    {
+      "name": "Golden Tobacco Limited",
+      "nsc": "GOLDENTOBC"
+    },
+    {
+      "name": "Goldiam International Limited",
+      "nsc": "GOLDIAM"
+    },
+    {
+      "name": "Goldstone Technologies Limited",
+      "nsc": "GOLDTECH"
+    },
+    {
+      "name": "Goodluck India Limited",
+      "nsc": "GOODLUCK"
+    },
+    {
+      "name": "Goyal Aluminium Limited",
+      "nsc": "GOYALALUM"
+    },
+    {
+      "name": "Godawari Power & Ispat Limited",
+      "nsc": "GPIL"
+    },
+    {
+      "name": "Gujarat Pipavav Port Limited",
+      "nsc": "GPPL"
+    },
+    {
+      "name": "GPT Infraprojects Limited",
+      "nsc": "GPTINFRA"
+    },
+    {
+      "name": "Granules India Limited",
+      "nsc": "GRANULES"
+    },
+    {
+      "name": "Graphite India Limited",
+      "nsc": "GRAPHITE"
+    },
+    {
+      "name": "Grasim Industries Limited",
+      "nsc": "GRASIM"
+    },
+    {
+      "name": "Gravita India Limited",
+      "nsc": "GRAVITA"
+    },
+    {
+      "name": "Greaves Cotton Limited",
+      "nsc": "GREAVESCOT"
+    },
+    {
+      "name": "Greenlam Industries Limited",
+      "nsc": "GREENLAM"
+    },
+    {
+      "name": "Greenpanel Industries Limited",
+      "nsc": "GREENPANEL"
+    },
+    {
+      "name": "Greenply Industries Limited",
+      "nsc": "GREENPLY"
+    },
+    {
+      "name": "Orient Green Power Company Limited",
+      "nsc": "GREENPOWER"
+    },
+    {
+      "name": "Grindwell Norton Limited",
+      "nsc": "GRINDWELL"
+    },
+    {
+      "name": "G R Infraprojects Limited",
+      "nsc": "GRINFRA"
+    },
+    {
+      "name": "GRM Overseas Limited",
+      "nsc": "GRMOVER"
+    },
+    {
+      "name": "The Grobb Tea Company Limited",
+      "nsc": "GROBTEA"
+    },
+    {
+      "name": "GRP Limited",
+      "nsc": "GRPLTD"
+    },
+    {
+      "name": "Garden Reach Shipbuilders & Engineers Limited",
+      "nsc": "GRSE"
+    },
+    {
+      "name": "Grauer & Weil (India) Limited",
+      "nsc": "GRWRHITECH"
+    },
+    {
+      "name": "Gujarat State Fertilizers & Chemicals Limited",
+      "nsc": "GSFC"
+    },
+    {
+      "name": "GSL Securities Limited",
+      "nsc": "GSLSU"
+    },
+    {
+      "name": "Gujarat State Petronet Limited",
+      "nsc": "GSPL"
+    },
+    {
+      "name": "GSS Infotech Limited",
+      "nsc": "GSS"
+    },
+    {
+      "name": "G-Tec Jainx Education Limited",
+      "nsc": "GTECJAINX"
+    },
+   {
+   "name": "Hindustan Aeronautics Limited",
+   "nsc": "HAL"
+   },
+   {
+   "name": "Happiest Minds Technologies Limited",
+   "nsc": "HAPPSTMNDS"
+   },
+   {
+   "name": "Hardwyn India Limited",
+   "nsc": "HARDWYN"
+   },
+   {
+   "name": "Hariom Pipe Industries Limited",
+   "nsc": "HARIOMPIPE"
+   },
+   {
+   "name": "Harrisons Malayalam Limited",
+   "nsc": "HARRMALAYA"
+   },
+   {
+   "name": "Harsha Engineers International Limited",
+   "nsc": "HARSHA"
+   },
+   {
+   "name": "Hathway Cable & Datacom Limited",
+   "nsc": "HATHWAY"
+   },
+   {
+   "name": "Hatsun Agro Product Limited",
+   "nsc": "HATSUN"
+   },
+   {
+   "name": "Havells India Limited",
+   "nsc": "HAVELLS"
+   },
+   {
+   "name": "Sri Havisha Hospitality & Infrastructure Limited",
+   "nsc": "HAVISHA"
+   },
+   {
+   "name": "HBL Power Systems Limited",
+   "nsc": "HBLPOWER"
+   },
+   {
+   "name": "HFCL Limited",
+   "nsc": "HBSL"
+   },
+   {
+   "name": "Hindustan Construction Company Limited",
+   "nsc": "HCC"
+   },
+   {
+   "name": "Healthcare Global Enterprises Limited",
+   "nsc": "HCG"
+   },
+   {
+   "name": "HCL Infosystems Limited",
+   "nsc": "HCL-INSYS"
+   },
+   {
+   "name": "HCL Technologies Limited",
+   "nsc": "HCLTECH"
+   },
+   {
+   "name": "HDFC Asset Management Company Limited",
+   "nsc": "HDFCAMC"
+   },
+   {
+   "name": "HDFC Bank Limited",
+   "nsc": "HDFCBANK"
+   },
+   {
+   "name": "HDFC Life Insurance Company Limited",
+   "nsc": "HDFCLIFE"
+   },
+   {
+   "name": "Housing Development & Infrastructure Limited",
+   "nsc": "HDIL"
+   },
+   {
+   "name": "Heads Up Ventures Limited",
+   "nsc": "HEADSUP"
+   },
+   {
+   "name": "HEC Projects Limited",
+   "nsc": "HECPROJECT"
+   },
+   {
+   "name": "HEG Limited",
+   "nsc": "HEG"
+   },
+   {
+   "name": "Heidelberg Cement India Limited",
+   "nsc": "HEIDELBERG"
+   },
+   {
+   "name": "Hemisphere Properties India Limited",
+   "nsc": "HEMIPROP"
+   },
+   {
+   "name": "Heranba Industries Limited",
+   "nsc": "HERANBA"
+   },
+   {
+   "name": "Hercules Hoists Limited",
+   "nsc": "HERCULES"
+   },
+   {
+   "name": "Heritage Foods Limited",
+   "nsc": "HERITGFOOD"
+   },
+   {
+   "name": "Hero MotoCorp Limited",
+   "nsc": "HEROMOTOCO"
+   },
+   {
+   "name": "Hester Biosciences Limited",
+   "nsc": "HESTERBIO"
+   },
+   {
+   "name": "Heubach Colorants India Limited",
+   "nsc": "HEUBACHIND"
+   },
+   {
+   "name": "Hexa Tradex Limited",
+   "nsc": "HEXATRADEX"
+   },
+   {
+   "name": "HFCL Limited",
+   "nsc": "HFCL"
+   },
+   {
+   "name": "HG Infra Engineering Limited",
+   "nsc": "HGINFRA"
+   },
+   {
+   "name": "Hinduja Global Solutions Limited",
+   "nsc": "HGS"
+   },
+   {
+   "name": "Hikal Limited",
+   "nsc": "HIKAL"
+   },
+   {
+   "name": "HIL Limited",
+   "nsc": "HIL"
+   },
+   {
+   "name": "HLV Limited",
+   "nsc": "HILTON"
+   },
+   {
+   "name": "Himatsingka Seide Limited",
+   "nsc": "HIMATSEIDE"
+   },
+   {
+   "name": "Hindalco Industries Limited",
+   "nsc": "HINDALCO"
+   },
+   {
+   "name": "Hindustan Composites Limited",
+   "nsc": "HINDCOMPOS"
+   },
+   {
+   "name": "Hindcon Chemicals Limited",
+   "nsc": "HINDCON"
+   },
+   {
+   "name": "Hindustan Copper Limited",
+   "nsc": "HINDCOPPER"
+   },
+   {
+   "name": "Hindustan Motors Limited",
+   "nsc": "HINDMOTORS"
+   },
+   {
+   "name": "Hindusthan National Glass & Industries Limited",
+   "nsc": "HINDNATGLS"
+   },
+   {
+   "name": "Hindustan Oil Exploration Company Limited",
+   "nsc": "HINDOILEXP"
+   },
+   {
+   "name": "Hindustan Petroleum Corporation Limited",
+   "nsc": "HINDPETRO"
+   },
+   {
+   "name": "Hindustan Unilever Limited",
+   "nsc": "HINDUNILVR"
+   },
+   {
+   "name": "Hindware Home Innovation Limited",
+   "nsc": "HINDWAREAP"
+   },
+   {
+   "name": "Hindustan Zinc Limited",
+   "nsc": "HINDZINC"
+   },
+   {
+   "name": "Hind Rectifiers Limited",
+   "nsc": "HIRECT"
+   },
+   {
+   "name": "Hisar Metal Industries Limited",
+   "nsc": "HISARMETAL"
+   },
+   {
+   "name": "Hi-Tech Pipes Limited",
+   "nsc": "HITECH"
+   },
+   {
+   "name": "Hi-Tech Corporation Limited",
+   "nsc": "HITECHCORP"
+   },
+   {
+   "name": "Hi-Tech Gears Limited",
+   "nsc": "HITECHGEAR"
+   },
+   {
+   "name": "HLE Glascoat Limited",
+   "nsc": "HLEGLAS"
+   },
+   {
+   "name": "HLV Limited",
+   "nsc": "HLVLTD"
+   },
+   {
+   "name": "HMA Agro Industries Limited",
+   "nsc": "HMAAGRO"
+   },
+   {
+   "name": "HMT Limited",
+   "nsc": "HMT"
+   },
+   {
+   "name": "Hindustan Media Ventures Limited",
+   "nsc": "HMVL"
+   },
+   {
+   "name": "Hindustan Foods Limited",
+   "nsc": "HNDFDS"
+   },
+   {
+   "name": "Home First Finance Company India Limited",
+   "nsc": "HOMEFIRST"
+   },
+   {
+   "name": "Honeywell Automation India Limited",
+   "nsc": "HONAUT"
+   },
+   {
+   "name": "Honda Power Products Limited",
+   "nsc": "HONDAPOWER"
+   },
+   {
+   "name": "HOV Services Limited",
+   "nsc": "HOVS"
+   },
+   {
+   "name": "HPL Electric & Power Limited",
+   "nsc": "HPAL"
+   },
+   {
+   "name": "Hindprakash Industries Limited",
+   "nsc": "HPIL"
+   },
+   {
+   "name": "HPL Electric & Power Limited",
+   "nsc": "HPL"
+   },
+   {
+   "name": "HSCC Limited",
+   "nsc": "HSCL"
+   },
+   {
+   "name": "HT Media Limited",
+   "nsc": "HTMEDIA"
+   },
+   {
+   "name": "Hubtown Limited",
+   "nsc": "HUBTOWN"
+   },
+   {
+   "name": "Housing & Urban Development Corporation Limited",
+   "nsc": "HUDCO"
+   },
+   {
+   "name": "Huhtamaki India Limited",
+   "nsc": "HUHTAMAKI"
+   },
+   {
+   "name": "ICDS Limited",
+   "nsc": "ICDSLTD"
+   },
+   {
+   "name": "Ice Make Refrigeration Limited",
+   "nsc": "ICEMAKE"
+   },
+   {
+   "name": "ICICI Bank Limited",
+   "nsc": "ICICIBANK"
+   },
+   {
+   "name": "ICICI Lombard General Insurance Company Limited",
+   "nsc": "ICICIGI"
+   },
+   {
+   "name": "ICICI Prudential Life Insurance Company Limited",
+   "nsc": "ICICIPRULI"
+   },
+   {
+   "name": "Indo Count Industries Limited",
+   "nsc": "ICIL"
+   },
+   {
+   "name": "ICRA Limited",
+   "nsc": "ICRA"
+   },
+   {
+   "name": "IDBI Bank Limited",
+   "nsc": "IDBI"
+   },
+   {
+   "name": "Vodafone Idea Limited",
+   "nsc": "IDEA"
+   },
+   {
+   "name": "ideaForge Technology Limited",
+   "nsc": "IDEAFORGE"
+   },
+   {
+   "name": "IDFC First Bank Limited",
+   "nsc": "IDFCFIRSTB"
+   },
+   {
+   "name": "Industrial Investment Trust Limited",
+   "nsc": "IEL"
+   },
+   {
+   "name": "Indian Energy Exchange Limited",
+   "nsc": "IEX"
+   },
+   {
+   "name": "IFB Agro Industries Limited",
+   "nsc": "IFBAGRO"
+   },
+   {
+   "name": "IFB Industries Limited",
+   "nsc": "IFBIND"
+   },
+   {
+   "name": "IFCI Limited",
+   "nsc": "IFCI"
+   },
+   {
+   "name": "IFGL Refractories Limited",
+   "nsc": "IFGLEXPOR"
+   },
+   {
+   "name": "Igarashi Motors India Limited",
+   "nsc": "IGARASHI"
+   },
+   {
+   "name": "Indraprastha Gas Limited",
+   "nsc": "IGL"
+   },
+   {
+   "name": "I G Petrochemicals Limited",
+   "nsc": "IGPL"
+   },
+   {
+   "name": "IIFL Finance Limited",
+   "nsc": "IIFL"
+   },
+   {
+   "name": "Industrial Investment Trust Limited",
+   "nsc": "IITL"
+   },
+   {
+   "name": "IKIO Lighting Limited",
+   "nsc": "IKIO"
+   },
+   {
+   "name": "IL&FS Engineering and Construction Company Limited",
+   "nsc": "IL&FSENGG"
+   },
+   {
+   "name": "IL&FS Transportation Networks Limited",
+   "nsc": "IL&FSTRANS"
+   },
+   {
+   "name": "Imagicaaworld Entertainment Limited",
+   "nsc": "IMAGICAA"
+   },
+   {
+   "name": "Indian Metals & Ferro Alloys Limited",
+   "nsc": "IMFA"
+   },
+   {
+   "name": "India Motor Parts & Accessories Limited",
+   "nsc": "IMPAL"
+   },
+   {
+   "name": "Impex Ferro Tech Limited",
+   "nsc": "IMPEXFERRO"
+   },
+   {
+   "name": "Incredible Industries Limited",
+   "nsc": "INCREDIBLE"
+   },
+   {
+   "name": "Indbank Merchant Banking Services Limited",
+   "nsc": "INDBANK"
+   },
+   {
+   "name": "The Indian Hotels Company Limited",
+   "nsc": "INDHOTEL"
+   },
+   {
+   "name": "India Cements Limited",
+   "nsc": "INDIACEM"
+   },
+   {
+   "name": "India Glycols Limited",
+   "nsc": "INDIAGLYCO"
+   },
+   {
+   "name": "IndiaMART InterMESH Limited",
+   "nsc": "INDIAMART"
+   },
+   {
+   "name": "Indian Bank",
+   "nsc": "INDIANB"
+   },
+   {
+   "name": "Indian Card Clothing Company Limited",
+   "nsc": "INDIANCARD"
+   },
+   {
+   "name": "Indian Hume Pipe Company Limited",
+   "nsc": "INDIANHUME"
+   },
+   {
+   "name": "InterGlobe Aviation Limited",
+   "nsc": "INDIGO"
+   },
+   {
+   "name": "Indigo Paints Limited",
+   "nsc": "INDIGOPNTS"
+   },
+   {
+   "name": "India Nippon Electricals Limited",
+   "nsc": "INDNIPPON"
+   },
+   {
+   "name": "Indo Amines Limited",
+   "nsc": "INDOAMIN"
+   },
+   {
+   "name": "Indo Borax & Chemicals Limited",
+   "nsc": "INDOBORAX"
+   },
+   {
+   "name": "Indoco Remedies Limited",
+   "nsc": "INDOCO"
+   },
+   {
+   "name": "Indorama Synthetics India Limited",
+   "nsc": "INDORAMA"
+   },
+   {
+   "name": "IndoStar Capital Finance Limited",
+   "nsc": "INDOSTAR"
+   },
+   {
+   "name": "Indo Tech Transformers Limited",
+   "nsc": "INDOTECH"
+   },
+   {
+   "name": "Indo Thai Securities Limited",
+   "nsc": "INDOTHAI"
+   },
+   {
+   "name": "Indowind Energy Limited",
+   "nsc": "INDOWIND"
+   },
+   {
+   "name": "Indraprastha Medical Corporation Limited",
+   "nsc": "INDRAMEDCO"
+   },
+   {
+   "name": "Ind-Swift Laboratories Limited",
+   "nsc": "INDSWFTLAB"
+   },
+   {
+   "name": "Ind-Swift Limited",
+   "nsc": "INDSWFTLTD"
+   },
+   {
+   "name": "India Terrain Fashions Limited",
+   "nsc": "INDTERRAIN"
+   },
+   {
+   "name": "IndusInd Bank Limited",
+   "nsc": "INDUSINDB"
+   },
+   {
+   "name": "IndusInd Bank Limited",
+   "nsc": "INDUSINDBK"
+   },
+   {
+   "name": "Indus Towers Limited",
+   "nsc": "INDUSTOWER"
+   },
+   {
+   "name": "Infibeam Avenues Limited",
+   "nsc": "INFIBEAM"
+   },
+   {
+   "name": "InfoBeans Technologies Limited",
+   "nsc": "INFOBEAN"
+   },
+   {
+   "name": "Infomedia Press Limited",
+   "nsc": "INFOMEDIA"
+   },
+   {
+   "name": "Infosys Limited",
+   "nsc": "INFY"
+   },
+   {
+   "name": "Ingersoll Rand India Limited",
+   "nsc": "INGERRAND"
+   },
+   {
+   "name": "INOX Green Energy Services Limited",
+   "nsc": "INOXGREEN"
+   },
+   {
+   "name": "INOX Wind Limited",
+   "nsc": "INOXWIND"
+   },
+   {
+   "name": "Insecticides India Limited",
+   "nsc": "INSECTICID"
+   },
+   {
+   "name": "Inspirisys Solutions Limited",
+   "nsc": "INSPIRISYS"
+   },
+   {
+   "name": "Intellect Design Arena Limited",
+   "nsc": "INTELLECT"
+   },
+   {
+   "name": "Intense Technologies Limited",
+   "nsc": "INTENTECH"
+   },
+   {
+   "name": "International Conveyors Limited",
+   "nsc": "INTLCONV"
+   },
+   {
+   "name": "Inventure Growth and Securities Limited",
+   "nsc": "INVENTURE"
+   },
+   {
+   "name": "Indian Overseas Bank",
+   "nsc": "IOB"
+   },
+   {
+   "name": "Indian Oil Corporation Limited",
+   "nsc": "IOC"
+   },
+   {
+   "name": "IOL Chemicals and Pharmaceuticals Limited",
+   "nsc": "IOLCP"
+   },
+   {
+   "name": "Ion Exchange India Limited",
+   "nsc": "IONEXCHANG"
+   },
+   {
+   "name": "IPCA Laboratories Limited",
+   "nsc": "IPCALAB"
+   },
+   {
+   "name": "India Pesticides Limited",
+   "nsc": "IPL"
+   },
+   {
+   "name": "IRB Infrastructure Developers Limited",
+   "nsc": "IRB"
+   },
+   {
+   "name": "IRCON International Limited",
+   "nsc": "IRCON"
+   },
+   {
+   "name": "Indian Railway Catering and Tourism Corporation Limited",
+   "nsc": "IRCTC"
+   },
+   {
+   "name": "Indian Railway Finance Corporation Limited",
+   "nsc": "IRFC"
+   },
+   {
+   "name": "IRIS Business Services Limited",
+   "nsc": "IRIS"
+   },
+   {
+   "name": "IRIS Clothings Limited",
+   "nsc": "IRISDOREME"
+   },
+   {
+   "name": "ICICI Securities Limited",
+   "nsc": "ISEC"
+   },
+   {
+   "name": "Intrasoft Technologies Limited",
+   "nsc": "ISFT"
+   },
+   {
+   "name": "ISGEC Heavy Engineering Limited",
+   "nsc": "ISGEC"
+   },
+   {
+   "name": "ITC Limited",
+   "nsc": "ITC"
+   },
+   {
+   "name": "India Tourism Development Corporation Limited",
+   "nsc": "ITDC"
+   },
+   {
+   "name": "ITD Cementation India Limited",
+   "nsc": "ITDCEM"
+   },
+   {
+   "name": "ITI Limited",
+   "nsc": "ITI"
+   },
+   {
+   "name": "IVC Limited",
+   "nsc": "IVC"
+   },
+   {
+   "name": "IVP Limited",
+   "nsc": "IVP"
+   },
+   {
+   "name": "Inox Wind Energy Limited",
+   "nsc": "IWEL"
+   },
+   {
+   "name": "IZMO Limited",
+   "nsc": "IZMO"
+   },
+   {
+   "name": "Jammu and Kashmir Bank Limited",
+   "nsc": "J&KBANK"
+   },
+   {
+   "name": "Jagran Prakashan Limited",
+   "nsc": "JAGRAN"
+   },
+   {
+   "name": "Jai Balaji Industries Limited",
+   "nsc": "JAIBALAJI"
+   },
+   {
+   "name": "Jai Corp Limited",
+   "nsc": "JAICORPLTD"
+   },
+   {
+   "name": "Jain Irrigation Systems Limited",
+   "nsc": "JISLJALEQS"
+   },
+   {
+   "name": "Jamna Auto Industries Limited",
+   "nsc": "JAMNAAUTO"
+   },
+   {
+   "name": "Jash Engineering Limited",
+   "nsc": "JASH"
+   },
+   {
+   "name": "Jay Bharat Maruti Limited",
+   "nsc": "JAYBARMARU"
+   },
+   {
+   "name": "JB Chemicals & Pharmaceuticals Limited",
+   "nsc": "JBCHEPHARM"
+   },
+   {
+   "name": "JBM Auto Limited",
+   "nsc": "JBMA"
+   },
+   {
+   "name": "Johnson Controls Hitachi Air Conditioning India Limited",
+   "nsc": "JCHAC"
+   },
+   {
+   "name": "Jet Airways (India) Limited",
+   "nsc": "JETAIRWAYS"
+   },
+   {
+   "name": "JHS Svendgaard Laboratories Limited",
+   "nsc": "JHS"
+   },
+   {
+   "name": "Jindal Photo Limited",
+   "nsc": "JINDALPHOT"
+   },
+   {
+   "name": "Jindal Poly Films Limited",
+   "nsc": "JINDALPOLY"
+   },
+   {
+   "name": "Jindal Saw Limited",
+   "nsc": "JINDALSAW"
+   },
+   {
+   "name": "Jindal Steel & Power Limited",
+   "nsc": "JINDALSTEL"
+   },
+   {
+   "name": "Jindal Drilling and Industries Limited",
+   "nsc": "JINDRILL"
+   },
+   {
+   "name": "Jindal Worldwide Limited",
+   "nsc": "JINDWORLD"
+   },
+   {
+   "name": "Jio Financial Services Limited",
+   "nsc": "JIOFIN"
+   },
+   {
+   "name": "JITF Infralogistics Limited",
+   "nsc": "JITFINFRA"
+   },
+   {
+   "name": "JK Cement Limited",
+   "nsc": "JKCEMENT"
+   },
+   {
+   "name": "J Kumar Infraprojects Limited",
+   "nsc": "JKIL"
+   },
+   {
+   "name": "JK Lakshmi Cement Limited",
+   "nsc": "JKLAKSHMI"
+   },
+   {
+   "name": "JK Paper Limited",
+   "nsc": "JKPAPER"
+   },
+   {
+   "name": "JK Tyre & Industries Limited",
+   "nsc": "JKTYRE"
+   },
+   {
+   "name": "JM Financial Limited",
+   "nsc": "JMFINANCIL"
+   },
+   {
+   "name": "Jocil Limited",
+   "nsc": "JOCIL"
+   },
+   {
+   "name": "Jaiprakash Associates Limited",
+   "nsc": "JPASSOCIAT"
+   },
+   {
+   "name": "Jindal Poly Investment and Finance Company Limited",
+   "nsc": "JPOLYINVST"
+   },
+   {
+   "name": "Jaiprakash Power Ventures Limited",
+   "nsc": "JPPOWER"
+   },
+   {
+   "name": "Jindal Stainless Limited",
+   "nsc": "JSL"
+   },
+   {
+   "name": "JSW Energy Limited",
+   "nsc": "JSWENERGY"
+   },
+   {
+   "name": "JSW Holdings Limited",
+   "nsc": "JSWHL"
+   },
+   {
+   "name": "JSW Steel Limited",
+   "nsc": "JSWSTEEL"
+   },
+   {
+   "name": "JTEKT India Limited",
+   "nsc": "JTEKTINDIA"
+   },
+   {
+   "name": "JTL Industries Limited",
+   "nsc": "JTLIND"
+   },
+   {
+   "name": "Jubilant FoodWorks Limited",
+   "nsc": "JUBLFOOD"
+   },
+   {
+   "name": "Jubilant Industries Limited",
+   "nsc": "JUBLINDS"
+   },
+   {
+   "name": "Jubilant Ingrevia Limited",
+   "nsc": "JUBLINGREA"
+   },
+   {
+   "name": "Jubilant Pharmova Limited",
+   "nsc": "JUBLPHARMA"
+   },
+   {
+   "name": "Justdial Limited",
+   "nsc": "JUSTDIAL"
+   },
+   {
+   "name": "Jupiter Wagons Limited",
+   "nsc": "JWL"
+   },
+   {
+   "name": "Jyothy Labs Limited",
+   "nsc": "JYOTHYLAB"
+   },
+   {
+   "name": "Jyoti Structures Limited",
+   "nsc": "JYOTISTRUC"
+   },
+   {
+   "name": "Kalyani Steel Limited",
+   "nsc": "KSL"
+   },
+   {
+   "name": "Kajaria Ceramics Limited",
+   "nsc": "KAJARIACER"
+   },
+   {
+   "name": "Kakatiya Cement Sugar & Industries Limited",
+   "nsc": "KAKATCEM"
+   },
+   {
+   "name": "Kalamandir Jewellers Limited",
+   "nsc": "KALAMANDIR"
+   },
+   {
+   "name": "Kalyani Investment Company Limited",
+   "nsc": "KALYANIFRG"
+   },
+   {
+   "name": "Kalyan Jewellers India Limited",
+   "nsc": "KALYANKJIL"
+   },
+   {
+   "name": "Kamat Hotels (India) Limited",
+   "nsc": "KAMATHOTEL"
+   },
+   {
+   "name": "Kamdhenu Limited",
+   "nsc": "KAMDHENU"
+   },
+   {
+   "name": "Kanani Industries Limited",
+   "nsc": "KANANIIND"
+   },
+   {
+   "name": "Kansai Nerolac Paints Limited",
+   "nsc": "KANSAINER"
+   },
+   {
+   "name": "Karur Vysya Bank Limited",
+   "nsc": "KARURVYSYA"
+   },
+   {
+   "name": "Kaveri Seed Company Limited",
+   "nsc": "KAVVERITEL"
+   },
+   {
+   "name": "Kaya Limited",
+   "nsc": "KAYA"
+   },
+   {
+   "name": "Kaynes Technology India Limited",
+   "nsc": "KAYNES"
+   },
+   {
+   "name": "KCP Limited",
+   "nsc": "KCP"
+   },
+   {
+   "name": "KCP Sugar and Industries Corporation Limited",
+   "nsc": "KCPSUGIND"
+   },
+   {
+   "name": "KDDL Limited",
+   "nsc": "KDDL"
+   },
+   {
+   "name": "KEC International Limited",
+   "nsc": "KEC"
+   },
+   {
+   "name": "Kirloskar Electric Company Limited",
+   "nsc": "KECL"
+   },
+   {
+   "name": "KEI Industries Limited",
+   "nsc": "KEI"
+   },
+   {
+   "name": "Kellton Tech Solutions Limited",
+   "nsc": "KELLTONTEC"
+   },
+   {
+   "name": "Kernex Microsystems (India) Limited",
+   "nsc": "KERNEX"
+   },
+   {
+   "name": "Kesoram Industries Limited",
+   "nsc": "KESORAMIND"
+   },
+   {
+   "name": "Keystone Realtors Limited",
+   "nsc": "KEYFINSERV"
+   },
+   {
+   "name": "KFin Technologies Limited",
+   "nsc": "KFINTECH"
+   },
+   {
+   "name": "Khadim India Limited",
+   "nsc": "KHADIM"
+   },
+   {
+   "name": "Khaitan Chemicals and Fertilisers Limited",
+   "nsc": "KHAICHEM"
+   },
+   {
+   "name": "Khaitan India Limited",
+   "nsc": "KHAITANLTD"
+   },
+   {
+   "name": "Khandwala Securities Limited",
+   "nsc": "KHANDSE"
+   },
+   {
+   "name": "Kilitch Drugs (India) Limited",
+   "nsc": "KILITCH"
+   },
+   {
+   "name": "Krishna Institute of Medical Sciences Limited",
+   "nsc": "KIMS"
+   },
+   {
+   "name": "Kingfa Science & Technology Limited",
+   "nsc": "KINGFA"
+   },
+   {
+   "name": "KIOCL Limited",
+   "nsc": "KIOCL"
+   },
+   {
+   "name": "Kiri Industries Limited",
+   "nsc": "KIRIINDUS"
+   },
+   {
+   "name": "Kirloskar Ferrous Industries Limited",
+   "nsc": "KIRLFER"
+   },
+   {
+   "name": "Kirloskar Brothers Limited",
+   "nsc": "KIRLOSBROS"
+   },
+   {
+   "name": "Kirloskar Electric Company Limited",
+   "nsc": "KIRLOSENG"
+   },
+   {
+   "name": "Kirloskar Industries Limited",
+   "nsc": "KIRLOSIND"
+   },
+   {
+   "name": "Kitex Garments Limited",
+   "nsc": "KITEX"
+   },
+   {
+   "name": "Kitex Garments Limited",
+   "nsc": "KITEX"
+   },
+   {
+   "name": "Kewal Kiran Clothing Limited",
+   "nsc": "KKCL"
+   },
+   {
+   "name": "KM Sugar Mills Limited",
+   "nsc": "KMSUGAR"
+   },
+   {
+   "name": "KNR Constructions Limited",
+   "nsc": "KNRCON"
+   },
+   {
+   "name": "Kohinoor Foods Limited",
+   "nsc": "KOHINOOR"
+   },
+   {
+   "name": "Kokuyo Camlin Limited",
+   "nsc": "KOKUYOCMLN"
+   },
+   {
+   "name": "Kolte-Patil Developers Limited",
+   "nsc": "KOLTEPATIL"
+   },
+   {
+   "name": "Kopran Limited",
+   "nsc": "KOPRAN"
+   },
+   {
+   "name": "Kotak Mahindra Bank Limited",
+   "nsc": "KOTAKBANK"
+   },
+   {
+   "name": "Kothari Sugars and Chemicals Limited",
+   "nsc": "KOTARISUG"
+   },
+   {
+   "name": "Kothari Petrochemicals Limited",
+   "nsc": "KOTHARIPET"
+   },
+   {
+   "name": "Kothari Products Limited",
+   "nsc": "KOTHARIPRO"
+   },
+   {
+   "name": "Kovai Medical Center and Hospital Limited",
+   "nsc": "KOVAI"
+   },
+   {
+   "name": "KPI Green Energy Limited",
+   "nsc": "KPIGREEN"
+   },
+   {
+   "name": "Kriti Industries India Limited",
+   "nsc": "KRITI"
+   },
+   {
+   "name": "KPIT Technologies Limited",
+   "nsc": "KPITTECH"
+   },
+   {
+   "name": "KPR Mill Limited",
+   "nsc": "KPRMILL"
+   },
+   {
+   "name": "KRBL Limited",
+   "nsc": "KRBL"
+   },
+   {
+   "name": "Krebs Biochemicals & Industries Limited",
+   "nsc": "KREBSBIO"
+   },
+   {
+   "name": "Krishna Institute of Medical Sciences Limited",
+   "nsc": "KRISHANA"
+   },
+   {
+   "name": "Kritika Wires Limited",
+   "nsc": "KRITIKA"
+   },
+   {
+   "name": "Kriti Nutrients Limited",
+   "nsc": "KRITINUT"
+   },
+   {
+   "name": "Krsnaa Diagnostics Limited",
+   "nsc": "KRSNAA"
+   },
+   {
+   "name": "KSB Limited",
+   "nsc": "KSB"
+   },
+   {
+   "name": "Kalyani Steel Limited",
+   "nsc": "KSL"
+   },
+   {
+   "name": "Ksolves India Limited",
+   "nsc": "KSOLVES"
+   },
+   {
+   "name": "The Karnataka Bank Limited",
+   "nsc": "KTKBANK"
+   },
+   {
+   "name": "Kuantum Papers Limited",
+   "nsc": "KUANTUM"
+   },
+   {
+   "name": "La Opala RG Limited",
+   "nsc": "LAOPALA"
+   },
+   {
+   "name": "Lasa Supergenerics Limited",
+   "nsc": "LASA"
+   },
+   {
+   "name": "Latent View Analytics Limited",
+   "nsc": "LATENTVIEW"
+   },
+   {
+   "name": "Laurus Labs Limited",
+   "nsc": "LAURUSLABS"
+   },
+   {
+   "name": "Laxmi Cotspin Limited",
+   "nsc": "LAXMICOT"
+   },
+   {
+   "name": "LCC Infotech Limited",
+   "nsc": "LCCINFOTEC"
+   },
+   {
+   "name": "Lemon Tree Hotels Limited",
+   "nsc": "LEMONTREE"
+   },
+   {
+   "name": "LGB Brothers Limited",
+   "nsc": "LGBBROSLTD"
+   },
+   {
+   "name": "Libas Designs Limited",
+   "nsc": "LIBAS"
+   },
+   {
+   "name": "Liberty Shoes Limited",
+   "nsc": "LIBERTSHOE"
+   },
+   {
+   "name": "LIC Housing Finance Limited",
+   "nsc": "LICHSGFIN"
+   },
+   {
+   "name": "Life Insurance Corporation of India",
+   "nsc": "LICI"
+   },
+   {
+   "name": "Likhitha Infrastructure Limited",
+   "nsc": "LIKHITHA"
+   },
+   {
+   "name": "Linc Limited",
+   "nsc": "LINC"
+   },
+   {
+   "name": "Lincoln Pharmaceuticals Limited",
+   "nsc": "LINCOLN"
+   },
+   {
+   "name": "Linde India Limited",
+   "nsc": "LINDEINDIA"
+   },
+   {
+   "name": "Lloyds Engineering Works Limited",
+   "nsc": "LLOYDSENGG"
+   },
+   {
+   "name": "Macrotech Developers Limited",
+   "nsc": "LODHA"
+   },
+   {
+   "name": "Lokesh Machines Limited",
+   "nsc": "LOKESHMACH"
+   },
+   {
+   "name": "Lords Chloro Alkali Limited",
+   "nsc": "LORDSCHLO"
+   },
+   {
+   "name": "Lotus Eye Hospital and Institute Limited",
+   "nsc": "LOTUSEYE"
+   },
+   {
+   "name": "Lovable Lingerie Limited",
+   "nsc": "LOVABLE"
+   },
+   {
+   "name": "Loyal Textiles Mills Limited",
+   "nsc": "LOYALTEX"
+   },
+   {
+   "name": "Larsen & Toubro Limited",
+   "nsc": "LT"
+   },
+   {
+   "name": "L&T Finance Holdings Limited",
+   "nsc": "LTFH"
+   },
+   {
+   "name": "LT Foods Limited",
+   "nsc": "LTFOODS"
+   },
+   {
+   "name": "LTIMindtree Limited",
+   "nsc": "LTIM"
+   },
+   {
+   "name": "L&T Technology Services Limited",
+   "nsc": "LTTS"
+   },
+   {
+   "name": "Lumax Industries Limited",
+   "nsc": "LUMAXIND"
+   },
+   {
+   "name": "Lumax Auto Technologies Limited",
+   "nsc": "LUMAXTECH"
+   },
+   {
+   "name": "Lupin Limited",
+   "nsc": "LUPIN"
+   },
+   {
+   "name": "Lux Industries Limited",
+   "nsc": "LUXIND"
+   },
+   {
+   "name": "Laxmi Organic Industries Limited",
+   "nsc": "LXCHEM"
+   },
+   {
+   "name": "Lyka Labs Limited",
+   "nsc": "LYKALABS"
+   },
+   {
+   "name": "Lypsa Gems & Jewellery Limited",
+   "nsc": "LYPSAGEMS"
+   },
+   {
+   "name": "Mahindra & Mahindra Limited",
+   "nsc": "M&M"
+   },
+   {
+   "name": "Mahindra & Mahindra Financial Services Limited",
+   "nsc": "M&MFIN"
+   },
+   {
+   "name": "Maan Aluminium Limited",
+   "nsc": "MAANALU"
+   },
+   {
+   "name": "Macpower CNC Machines Limited",
+   "nsc": "MACPOWER"
+   },
+   {
+   "name": "Madhav Marbles and Granites Limited",
+   "nsc": "MADHAV"
+   },
+   {
+   "name": "Madhucon Projects Limited",
+   "nsc": "MADHUCON"
+   },
+   {
+   "name": "Madras Fertilizers Limited",
+   "nsc": "MADRASFERT"
+   },
+   {
+   "name": "Magadh Sugar & Energy Limited",
+   "nsc": "MAGADSUGAR"
+   },
+   {
+   "name": "Magnum Ventures Limited",
+   "nsc": "MAGNUM"
+   },
+   {
+   "name": "Bank of Maharashtra",
+   "nsc": "MAHABANK"
+   },
+   {
+   "name": "Maharashtra Seamless Limited",
+   "nsc": "MAHSEAMLES"
+   },
+   {
+   "name": "Mahindra EPC Irrigation Limited",
+   "nsc": "MAHEPC"
+   },
+   {
+   "name": "Maheshwari Logistics Limited",
+   "nsc": "MAHESHWARI"
+   },
+   {
+   "name": "Mahindra Lifespace Developers Limited",
+   "nsc": "MAHLIFE"
+   },
+   {
+   "name": "Mahindra Logistics Limited",
+   "nsc": "MAHLOG"
+   },
+   {
+   "name": "Maharashtra Scooters Limited",
+   "nsc": "MAHSCOOTER"
+   },
+   {
+   "name": "Maithan Alloys Limited",
+   "nsc": "MAITHANALL"
+   },
+   {
+   "name": "Mallcom (India) Limited",
+   "nsc": "MALLCOM"
+   },
+   {
+   "name": "Malu Paper Mills Limited",
+   "nsc": "MALUPAPER"
+   },
+   {
+   "name": "Manaksia Aluminium Company Limited",
+   "nsc": "MANAKALUCO"
+   },
+   {
+   "name": "Manaksia Coated Metals & Industries Limited",
+   "nsc": "MANAKCOAT"
+   },
+   {
+   "name": "Manaksia Limited",
+   "nsc": "MANAKSIA"
+   },
+   {
+   "name": "Manaksia Steels Limited",
+   "nsc": "MANAKSTEEL"
+   },
+   {
+   "name": "Manali Petrochemicals Limited",
+   "nsc": "MANALIPETC"
+   },
+   {
+   "name": "Manappuram Finance Limited",
+   "nsc": "MANAPPURAM"
+   },
+   {
+   "name": "Mangalam Cement Limited",
+   "nsc": "MANGLMCEM"
+   },
+   {
+   "name": "Mangalore Chemicals & Fertilizers Limited",
+   "nsc": "MANGCHEFER"
+   },
+   {
+   "name": "Man Industries (India) Limited",
+   "nsc": "MANINDS"
+   },
+   {
+   "name": "Man Infraconstruction Limited",
+   "nsc": "MANINFRA"
+   },
+   {
+   "name": "Mankind Pharma Limited",
+   "nsc": "MANKIND"
+   },
+   {
+   "name": "Manomay Tex India Limited",
+   "nsc": "MANOMAY"
+   },
+   {
+   "name": "Manorama Industries Limited",
+   "nsc": "MANORAMA"
+   },
+   {
+   "name": "Manugraph India Limited",
+   "nsc": "MANUGRAPH"
+   },
+   {
+   "name": "Vedant Fashions Limited",
+   "nsc": "MANYAVAR"
+   },
+   {
+   "name": "C.E. Info Systems Limited",
+   "nsc": "MAPMYINDIA"
+   },
+   {
+   "name": "Maral Overseas Limited",
+   "nsc": "MARALOVER"
+   },
+   {
+   "name": "Marathon Nextgen Realty Limited",
+   "nsc": "MARATHON"
+   },
+   {
+   "name": "Marico Limited",
+   "nsc": "MARICO"
+   },
+   {
+   "name": "Marine Electricals (India) Limited",
+   "nsc": "MARINE"
+   },
+   {
+   "name": "Marksans Pharma Limited",
+   "nsc": "MARKSANS"
+   },
+   {
+   "name": "Marshall Machines Limited",
+   "nsc": "MARSHALL"
+   },
+   {
+   "name": "Maruti Suzuki India Limited",
+   "nsc": "MARUTI"
+   },
+   {
+   "name": "MAS Financial Services Limited",
+   "nsc": "MASFIN"
+   },
+   {
+   "name": "Mastek Limited",
+   "nsc": "MASTEK"
+   },
+   {
+   "name": "Matrimony.com Limited",
+   "nsc": "MATRIMONY"
+   },
+   {
+   "name": "Max Healthcare Institute Limited",
+   "nsc": "MAXHEALTH"
+   },
+   {
+   "name": "Mazagon Dock Shipbuilders Limited",
+   "nsc": "MAZDOCK"
+   },
+   {
+   "name": "Mazda Limited",
+   "nsc": "MAZDA"
+   },
+   {
+   "name": "Multi Commodity Exchange of India Limited",
+   "nsc": "MCX"
+   },
+   {
+   "name": "MEP Infrastructure Developers Limited",
+   "nsc": "MEP"
+   },
+   {
+   "name": "Meghmani Finechem Limited",
+   "nsc": "MFL"
+   },
+   {
+   "name": "Minda Corporation Limited",
+   "nsc": "MINDACORP"
+   },
+   {
+   "name": "Mishra Dhatu Nigam Limited",
+   "nsc": "MIDHANI"
+   },
+   {
+   "name": "Mirza International Limited",
+   "nsc": "MIRZAINT"
+   },
+   {
+   "name": "Mold-Tek Packaging Limited",
+   "nsc": "MOLDTKPAC"
+   },
+   {
+   "name": "Monte Carlo Fashions Limited",
+   "nsc": "MONTECARLO"
+   },
+   {
+   "name": "Morepen Laboratories Limited",
+   "nsc": "MOREPENLAB"
+   },
+   {
+   "name": "Motherson Sumi Wiring India Limited",
+   "nsc": "MSUMI"
+   },
+   {
+   "name": "Muthoot Microfin Limited",
+   "nsc": "MMFL"
+   }
+   ,
+  {
+   "name": "MMP Industries Limited",
+   "nsc": "MMPIL"
+   },
+   {
+   "name": "Modison Limited",
+   "nsc": "MODISON"
+   },
+   {
+   "name": "Mold-Tek Packaging Limited",
+   "nsc": "MOLDTKPAC"
+   },
+   {
+   "name": "Mold-Tek Technologies Limited",
+   "nsc": "MOLDTECH"
+   },
+   {
+   "name": "Monte Carlo Fashions Limited",
+   "nsc": "MONTECARLO"
+   },
+   {
+   "name": "Morepen Laboratories Limited",
+   "nsc": "MOREPENLAB"
+   },
+   {
+   "name": "Motherson Sumi Wiring India Limited",
+   "nsc": "MSUMI"
+   },
+   {
+   "name": "Motilal Oswal Financial Services Limited",
+   "nsc": "MOTILALOFS"
+   },
+   {
+   "name": "Motor & General Finance Limited",
+   "nsc": "MOTOGENFIN"
+   },
+   {
+   "name": "Mphasis Limited",
+   "nsc": "MPHASIS"
+   },
+   {
+   "name": "MPS Limited",
+   "nsc": "MPSLTD"
+   },
+   {
+   "name": "MRF Limited",
+   "nsc": "MRF"
+   },
+   {
+   "name": "MSTC Limited",
+   "nsc": "MSTCLTD"
+   },
+   {
+   "name": "MTAR Technologies Limited",
+   "nsc": "MTAR"
+   },
+   {
+   "name": "Mukand Limited",
+   "nsc": "MUKANDLTD"
+   },
+   {
+   "name": "Mukta Arts Limited",
+   "nsc": "MUKTAARTS"
+   },
+   {
+   "name": "Multi Commodity Exchange of India Limited",
+   "nsc": "MCX"
+   },
+   {
+   "name": "Muthoot Finance Limited",
+   "nsc": "MUTHOOTFIN"
+   },
+   {
+   "name": "Muthoot Microfin Limited",
+   "nsc": "MMFL"
+   },
+   {
+   "name": "Metals and Minerals Trading Corporation of India Limited",
+   "nsc": "MMTC"
+   },
+   {
+   "name": "MOIL Limited",
+   "nsc": "MOIL"
+   },
+   {
+   "name": "Mangalore Refinery and Petrochemicals Limited",
+   "nsc": "MRPL"
+   },
+   {
+   "name": "Mishra Dhatu Nigam Limited",
+   "nsc": "MIDHANI"
+   },
+   {
+   "name": "Minda Corporation Limited",
+   "nsc": "MINDACORP"
+   },
+   {
+   "name": "Mirc Electronics Limited",
+   "nsc": "MIRCELECTR"
+   },
+   {
+   "name": "Mirza International Limited",
+   "nsc": "MIRZAINT"
+   },
+   {
+   "name": "Mishra Dhatu Nigam Limited",
+   "nsc": "MIDHANI"
+   },
+   {
+   "name": "Mold-Tek Packaging Limited",
+   "nsc": "MOLDTKPAC"
+   },
+   {
+   "name": "Monte Carlo Fashions Limited",
+   "nsc": "MONTECARLO"
+   },
+   {
+   "name": "Morepen Laboratories Limited",
+   "nsc": "MOREPENLAB"
+   },
+   {
+   "name": "Motherson Sumi Wiring India Limited",
+   "nsc": "MSUMI"
+   },
+   {
+   "name": "Motilal Oswal Financial Services Limited",
+   "nsc": "MOTILALOFS"
+   },
+   {
+   "name": "Motor & General Finance Limited",
+   "nsc": "MOTOGENFIN"
+   },
+   {
+   "name": "Mphasis Limited",
+   "nsc": "MPHASIS"
+   },
+   {
+   "name": "MPS Limited",
+   "nsc": "MPSLTD"
+   },
+   {
+   "name": "MRF Limited",
+   "nsc": "MRF"
+   },
+   {
+   "name": "MSTC Limited",
+   "nsc": "MSTCLTD"
+   },
+   {
+   "name": "MTAR Technologies Limited",
+   "nsc": "MTARTECH"
+   },
+   {
+   "name": "Mukand Limited",
+   "nsc": "MUKANDLTD"
+   },
+   {
+   "name": "Mukta Arts Limited",
+   "nsc": "MUKTAARTS"
+   },
+   {
+   "name": "Multi Commodity Exchange of India Limited",
+   "nsc": "MCX"
+   },
+   {
+   "name": "Muthoot Finance Limited",
+   "nsc": "MUTHOOTFIN"
+   },
+   {
+   "name": "NACL Industries Limited",
+   "nsc": "NACLIND"
+   },
+   {
+   "name": "Nahar Capital & Financial Services Limited",
+   "nsc": "NAHARCAP"
+   },
+   {
+   "name": "Nahar Industrial Enterprises Limited",
+   "nsc": "NAHARINDUS"
+   },
+   {
+   "name": "Nahar Polyfilms Limited",
+   "nsc": "NAHARPOLY"
+   },
+   {
+   "name": "Nahar Spinning Mills Limited",
+   "nsc": "NAHARSPING"
+   },
+   {
+   "name": "National Aluminium Company Limited",
+   "nsc": "NATIONALUM"
+   },
+   {
+   "name": "NATCO Pharma Limited",
+   "nsc": "NATCOPHARM"
+   },
+   {
+   "name": "National Aluminium Company Limited",
+   "nsc": "NATIONALUM"
+   },
+   {
+   "name": "Navkar Corporation Limited",
+   "nsc": "NAVKARCORP"
+   },
+   {
+   "name": "Navneet Education Limited",
+   "nsc": "NAVNETEDUL"
+   },
+   {
+   "name": "Navin Fluorine International Limited",
+   "nsc": "NAVINFLUOR"
+   },
+   {
+   "name": "Nazara Technologies Limited",
+   "nsc": "NAZARA"
+   },
+   {
+   "name": "NBCC (India) Limited",
+   "nsc": "NBCC"
+   },
+   {
+   "name": "NCC Limited",
+   "nsc": "NCC"
+   },
+   {
+   "name": "NELCO Limited",
+   "nsc": "NELCO"
+   },
+   {
+   "name": "NESCO Limited",
+   "nsc": "NESCO"
+   },
+   {
+   "name": "Nestle India Limited",
+   "nsc": "NESTLEIND"
+   },
+   {
+   "name": "Network18 Media & Investments Limited",
+   "nsc": "NETWORK18"
+   },
+   {
+   "name": "Neuland Laboratories Limited",
+   "nsc": "NEULANDLAB"
+   },
+   {
+   "name": "Newgen Software Technologies Limited",
+   "nsc": "NEWGEN"
+   },
+   {
+   "name": "New Delhi Television Limited",
+   "nsc": "NDTV"
+   },
+   {
+   "name": "NHPC Limited",
+   "nsc": "NHPC"
+   },
+   {
+   "name": "Nila Infrastructures Limited",
+   "nsc": "NILAINFRA"
+   },
+   {
+   "name": "Nippon Life India Asset Management Limited",
+   "nsc": "NAM-INDIA"
+   },
+   {
+   "name": "NLC India Limited",
+   "nsc": "NLCINDIA"
+   },
+   {
+   "name": "NMDC Limited",
+   "nsc": "NMDC"
+   },
+   {
+   "name": "NOCIL Limited",
+   "nsc": "NOCIL"
+   },
+   {
+   "name": "NTPC Limited",
+   "nsc": "NTPC"
+   },
+   {
+   "name": "Nucleus Software Exports Limited",
+   "nsc": "NUCLEUS"
+   },
+   {
+   "name": "Nuvoco Vistas Corporation Limited",
+   "nsc": "NUVOCO"
+   },
+   {
+   "name": "NTPC Limited",
+   "nsc": "NTPC"
+   },
+   {
+   "name": "Nalwa Sons Investments Limited",
+   "nsc": "NSIL"
+   },
+   {
+   "name": "NRB Bearings Limited",
+   "nsc": "NRBBEARING"
+   },
+   {
+   "name": "Noida Toll Bridge Company Limited",
+   "nsc": "NOIDATOLL"
+   },
+   {
+   "name": "NOCIL Limited",
+   "nsc": "NOCIL"
+   },
+   {
+   "name": "Oracle Financial Services Software Limited",
+   "nsc": "OFSS"
+   },
+   {
+   "name": "NMDC Limited",
+   "nsc": "NMDC"
+   },
+   {
+   "name": "Nitin Spinners Limited",
+   "nsc": "NITINSPIN"
+   },
+   {
+   "name": "Nitco Limited",
+   "nsc": "NITCO"
+   },
+   {
+   "name": "Nilkamal Limited",
+   "nsc": "NILKAMAL"
+   },
+   {
+   "name": "NIIT Limited",
+   "nsc": "NIITLTD"
+   },
+   {
+   "name": "The New India Assurance Company Limited",
+   "nsc": "NIACL"
+   },
+   {
+   "name": "NHPC Limited",
+   "nsc": "NHPC"
+   },
+   {
+   "name": "Narayana Hrudayalaya Limited",
+   "nsc": "NH"
+   },
+   {
+   "name": "National Fertilizers Limited",
+   "nsc": "NFL"
+   },
+   {
+   "name": "Newgen Software Technologies Limited",
+   "nsc": "NEWGEN"
+   },
+   {
+   "name": "Neuland Laboratories Limited",
+   "nsc": "NEULANDLAB"
+   },
+   {
+   "name": "NLC India Limited",
+   "nsc": "NLCINDIA"
+   },
+   {
+   "name": "Oil India Limited",
+   "nsc": "OIL"
+   },
+   {
+   "name": "Omax Autos Limited",
+   "nsc": "OMAXAUTO"
+   },
+   {
+   "name": "PCBL Limited",
+   "nsc": "PCBL"
+   },
+   {
+   "name": "One97 Communications Limited",
+   "nsc": "PAYTM"
+   },
+   {
+   "name": "Patel Engineering Limited",
+   "nsc": "PATELENG"
+   },
+   {
+   "name": "Patanjali Foods Limited",
+   "nsc": "PATANJALI"
+   },
+   {
+   "name": "Paras Defence and Space Technologies Limited",
+   "nsc": "PARAS"
+   },
+   {
+   "name": "Paradeep Phosphates Limited",
+   "nsc": "PARADEEP"
+   },
+   {
+   "name": "Panama Petrochem Limited",
+   "nsc": "PANAMAPET"
+   },
+   {
+   "name": "Paisalo Digital Limited",
+   "nsc": "PAISALO"
+   },
+   {
+   "name": "Page Industries Limited",
+   "nsc": "PAGEIND"
+   },
+   {
+   "name": "Olectra Greentech Limited",
+   "nsc": "OLECTRA"
+   },
+   {
+   "name": "Orissa Minerals Development Company Limited",
+   "nsc": "ORISSAMINE"
+   },
+   {
+   "name": "Oriental Hotels Limited",
+   "nsc": "ORIENTHOT"
+   },
+   {
+   "name": "Orient Electric Limited",
+   "nsc": "ORIENTELEC"
+   },
+   {
+   "name": "Orient Cement Limited",
+   "nsc": "ORIENTCEM"
+   },
+   {
+   "name": "Orient Paper & Industries Limited",
+   "nsc": "ORIENTPPR"
+   },
+   {
+   "name": "The Orissa Minerals Development Company Limited",
+   "nsc": "ORISSAMINE"
+   },
+   {
+   "name": "Ortel Communications Limited",
+   "nsc": "ORTEL"
+   },
+   {
+   "name": "Ortin Global Limited",
+   "nsc": "ORTINGLOBE"
+   },
+   {
+   "name": "Oswal Agro Mills Limited",
+   "nsc": "OSWALAGRO"
+   },
+   {
+   "name": "Oswal Greentech Limited",
+   "nsc": "OSWALGREEN"
+   },
+   {
+   "name": "Page Industries Limited",
+   "nsc": "PAGEIND"
+   },
+   {
+   "name": "Paisalo Digital Limited",
+   "nsc": "PAISALO"
+   },
+   {
+   "name": "Yash Pakka Limited",
+   "nsc": "PAKKA"
+   },
+   {
+   "name": "Palash Securities Limited",
+   "nsc": "PALASHSECU"
+   },
+   {
+   "name": "Palred Technologies Limited",
+   "nsc": "PALREDTEC"
+   },
+   {
+   "name": "Panacea Biotec Limited",
+   "nsc": "PANACEABIO"
+   },
+   {
+   "name": "Panache Digilife Limited",
+   "nsc": "PANACHE"
+   },
+   {
+   "name": "Panama Petrochem Limited",
+   "nsc": "PANAMAPET"
+   },
+   {
+   "name": "Pansari Developers Limited",
+   "nsc": "PANSARI"
+   },
+   {
+   "name": "Par Drugs and Chemicals Limited",
+   "nsc": "PAR"
+   },
+   {
+   "name": "Paramount Communications Limited",
+   "nsc": "PARACABLES"
+   },
+   {
+   "name": "Paradeep Phosphates Limited",
+   "nsc": "PARADEEP"
+   },
+   {
+   "name": "Parag Milk Foods Limited",
+   "nsc": "PARAGMILK"
+   },
+   {
+   "name": "Paras Defence and Space Technologies Limited",
+   "nsc": "PARAS"
+   },
+   {
+   "name": "Paras Petrofils Limited",
+   "nsc": "PARASPETRO"
+   },
+   {
+   "name": "Parsvnath Developers Limited",
+   "nsc": "PARSVNATH"
+   },
+   {
+   "name": "Pasupati Acrylon Limited",
+   "nsc": "PASUPTAC"
+   },
+   {
+   "name": "Patanjali Foods Limited",
+   "nsc": "PATANJALI"
+   },
+   {
+   "name": "Patel Engineering Limited",
+   "nsc": "PATELENG"
+   },
+   {
+   "name": "Patel Integrated Logistics Limited",
+   "nsc": "PATINTLOG"
+   },
+   {
+   "name": "Pavna Industries Limited",
+   "nsc": "PAVNAIND"
+   },
+   {
+   "name": "One97 Communications Limited (Paytm)",
+   "nsc": "PAYTM"
+   },
+   {
+   "name": "PCBL Limited (Phillips Carbon Black)",
+   "nsc": "PCBL"
+   },
+   {
+   "name": "PC Jeweller Limited",
+   "nsc": "PCJEWELLER"
+   },
+   {
+   "name": "PDS Limited",
+   "nsc": "PDMJEPAPER"
+   },
+   {
+   "name": "Pearl Global Industries Limited",
+   "nsc": "PDSL"
+   },
+   {
+   "name": "Pearl Polymers Limited",
+   "nsc": "PEARLPOLY"
+   },
+   {
+   "name": "Piramal Enterprises Limited",
+   "nsc": "PEL"
+   },
+   {
+   "name": "Pennar Industries Limited",
+   "nsc": "PENIND"
+   },
+   {
+   "name": "Peninsula Land Limited",
+   "nsc": "PENINLAND"
+   },
+   {
+   "name": "Persistent Systems Limited",
+   "nsc": "PERSISTENT"
+   },
+   {
+   "name": "Petronet LNG Limited",
+   "nsc": "PETRONET"
+   },
+   {
+   "name": "Power Finance Corporation Limited",
+   "nsc": "PFC"
+   },
+   {
+   "name": "Pfizer Limited",
+   "nsc": "PFIZER"
+   },
+   {
+   "name": "Prime Focus Limited",
+   "nsc": "PFOCUS"
+   },
+   {
+   "name": "PTC Financial Services Limited",
+   "nsc": "PFS"
+   },
+   {
+   "name": "PG Electroplast Limited",
+   "nsc": "PGEL"
+   },
+   {
+   "name": "Procter & Gamble Hygiene and Health Care Limited",
+   "nsc": "PGHH"
+   },
+   {
+   "name": "Procter & Gamble Health Limited",
+   "nsc": "PGHL"
+   },
+   {
+   "name": "Prabhat Dairy Limited",
+   "nsc": "PGIL"
+   },
+   {
+   "name": "The Phoenix Mills Limited",
+   "nsc": "PHOENIXLTD"
+   },
+   {
+   "name": "Pidilite Industries Limited",
+   "nsc": "PIDILITIND"
+   },
+   {
+   "name": "Patel Integrated Logistics Limited",
+   "nsc": "PIGL"
+   },
+   {
+   "name": "PI Industries Limited",
+   "nsc": "PIIND"
+   },
+   {
+   "name": "Pilani Investment and Industries Corporation Limited",
+   "nsc": "PILANIINVS"
+   },
+   {
+   "name": "PIL Italica Lifestyle Limited",
+   "nsc": "PILITA"
+   },
+   {
+   "name": "Pioneer Embroideries Limited",
+   "nsc": "PIONEEREMB"
+   },
+   {
+   "name": "Pitti Engineering Limited",
+   "nsc": "PITTIENG"
+   },
+   {
+   "name": "PIX Transmission Limited",
+   "nsc": "PIXTRANS"
+   },
+   {
+   "name": "The Peria Karamalai Tea & Produce Co. Ltd",
+   "nsc": "PKTEA"
+   },
+   {
+   "name": "Plastiblends India Limited",
+   "nsc": "PLASTIBLEN"
+   },
+   {
+   "name": "Punjab National Bank",
+   "nsc": "PNB"
+   },
+   {
+   "name": "PNB Gilts Limited",
+   "nsc": "PNBGILTS"
+   },
+   {
+   "name": "PNB Housing Finance Limited",
+   "nsc": "PNBHOUSING"
+   },
+   {
+   "name": "PNC Infratech Limited",
+   "nsc": "PNC"
+   },
+   {
+   "name": "PNC Infratech Limited",
+   "nsc": "PNCINFRA"
+   },
+   {
+   "name": "Pondy Oxides & Chemicals Limited",
+   "nsc": "POCL"
+   },
+   {
+   "name": "Poddar Housing and Development Limited",
+   "nsc": "PODDARHOUS"
+   },
+   {
+   "name": "Pokarna Limited",
+   "nsc": "POKARNA"
+   },
+   {
+   "name": "PB Fintech Limited (Policybazaar)",
+   "nsc": "POLICYBZR"
+   },
+   {
+   "name": "Polycab India Limited",
+   "nsc": "POLYCAB"
+   },
+   {
+   "name": "Poly Medicure Limited",
+   "nsc": "POLYMED"
+   },
+   {
+   "name": "Polyplex Corporation Limited",
+   "nsc": "POLYPLEX"
+   },
+   {
+   "name": "Ponni Sugars (Erode) Limited",
+   "nsc": "PONNIERODE"
+   },
+   {
+   "name": "Poonawalla Fincorp Limited",
+   "nsc": "POONAWALLA"
+   },
+   {
+   "name": "Power Grid Corporation of India Limited",
+   "nsc": "POWERGRID"
+   },
+   {
+   "name": "ABB Power Products and Systems India Limited",
+   "nsc": "POWERINDIA"
+   },
+   {
+   "name": "Power Mech Projects Limited",
+   "nsc": "POWERMECH"
+   },
+   {
+   "name": "PPAP Automotive Limited",
+   "nsc": "PPAP"
+   },
+   {
+   "name": "Procter & Gamble Health Limited",
+   "nsc": "PPL"
+   },
+   {
+   "name": "Piramal Pharma Limited",
+   "nsc": "PPLPHARMA"
+   },
+   {
+   "name": "Praj Industries Limited",
+   "nsc": "PRAJIND"
+   },
+   {
+   "name": "Prakash Industries Limited",
+   "nsc": "PRAKASH"
+   },
+   {
+   "name": "Prakash Steelage Limited",
+   "nsc": "PRAKASHSTL"
+   },
+   {
+   "name": "Praxis Home Retail Limited",
+   "nsc": "PRAXIS"
+   },
+   {
+   "name": "Precision Camshafts Limited",
+   "nsc": "PRECAM"
+   },
+   {
+   "name": "Precot Limited",
+   "nsc": "PRECOT"
+   },
+   {
+   "name": "Precision Wires India Limited",
+   "nsc": "PRECWIRE"
+   },
+   {
+   "name": "Premier Explosives Limited",
+   "nsc": "PREMEXPLN"
+   },
+   {
+   "name": "Premier Limited",
+   "nsc": "PREMIER"
+   },
+   {
+   "name": "Premier Polymers Limited",
+   "nsc": "PREMIERPOL"
+   },
+   {
+   "name": "Prestige Estates Projects Limited",
+   "nsc": "PRESTIGE"
+   },
+   {
+   "name": "Pricol Limited",
+   "nsc": "PRICOLLTD"
+   },
+   {
+   "name": "Prime Securities Limited",
+   "nsc": "PRIMESECU"
+   },
+   {
+   "name": "Prince Pipes and Fittings Limited",
+   "nsc": "PRINCEPIPE"
+   },
+   {
+   "name": "Priti International Limited",
+   "nsc": "PRITI"
+   },
+   {
+   "name": "Pritika Auto Industries Limited",
+   "nsc": "PRITIKAUTO"
+   },
+   {
+   "name": "Privi Speciality Chemicals Limited",
+   "nsc": "PRIVISCL"
+   },
+   {
+   "name": "Prozone Intu Properties Limited",
+   "nsc": "PROZONER"
+   },
+   {
+   "name": "Prism Johnson Limited",
+   "nsc": "PRSMJOHNSN"
+   },
+   {
+   "name": "Prudent Corporate Advisory Services Limited",
+   "nsc": "PRUDENT"
+   },
+   {
+   "name": "Punjab & Sind Bank",
+   "nsc": "PSB"
+   },
+   {
+   "name": "PSP Projects Limited",
+   "nsc": "PSPPROJECT"
+   },
+   {
+   "name": "PTC India Limited",
+   "nsc": "PTC"
+   },
+   {
+   "name": "PTC Industries Limited",
+   "nsc": "PTCIL"
+   },
+   {
+   "name": "PTL Enterprises Limited",
+   "nsc": "PTL"
+   },
+   {
+   "name": "Punjab Chemicals and Crop Protection Limited",
+   "nsc": "PUNJABCHEM"
+   },
+   {
+   "name": "Puravankara Limited",
+   "nsc": "PURVA"
+   },
+   {
+   "name": "PVP Ventures Limited",
+   "nsc": "PVP"
+   },
+   {
+   "name": "PVR INOX Limited",
+   "nsc": "PVRINOX"
+   },
+   {
+   "name": "Pyramid Technoplast Limited",
+   "nsc": "PYRAMID"
+   },
+   {
+   "name": "Quess Corp Limited",
+   "nsc": "QUESS"
+   },
+   {
+   "name": "Quick Heal Technologies Limited",
+   "nsc": "QUICKHEAL"
+   },
+   {
+   "name": "Quintegra Solutions Limited",
+   "nsc": "QUINTEGRA"
+   },
+   {
+   "name": "Race Eco Chain Limited",
+   "nsc": "RACE"
+   },
+   {
+   "name": "Radaan Mediaworks India Limited",
+   "nsc": "RADAAN"
+   },
+   {
+   "name": "Radhika Jeweltech Limited",
+   "nsc": "RADHIKAJWE"
+   },
+   {
+   "name": "Radiant Cash Management Services Limited",
+   "nsc": "RADIANTCMS"
+   },
+   {
+   "name": "Radico Khaitan Limited",
+   "nsc": "RADICO"
+   },
+   {
+   "name": "Music Broadcast Limited",
+   "nsc": "RADIOCITY"
+   },
+   {
+   "name": "RailTel Corporation of India Limited",
+   "nsc": "RAILTEL"
+   },
+   {
+   "name": "Rain Industries Limited",
+   "nsc": "RAIN"
+   },
+   {
+   "name": "Rainbow Children's Medicare Limited",
+   "nsc": "RAINBOW"
+   },
+   {
+   "name": "Rajesh Exports Limited",
+   "nsc": "RAJESHEXPO"
+   },
+   {
+   "name": "Raj Metallurgical Industries Limited",
+   "nsc": "RAJMET"
+   },
+   {
+   "name": "Rajratan Global Wire Limited",
+   "nsc": "RAJRATAN"
+   },
+   {
+   "name": "Raj Rayon Industries Limited",
+   "nsc": "RAJRILTD"
+   },
+   {
+   "name": "Rajshree Sugars & Chemicals Limited",
+   "nsc": "RAJSREESUG"
+   },
+   {
+   "name": "Raj Television Network Limited",
+   "nsc": "RAJTV"
+   },
+   {
+   "name": "Rajvir Industries Limited",
+   "nsc": "RAJVIR"
+   },
+   {
+   "name": "Rallis India Limited",
+   "nsc": "RALLIS"
+   },
+  {
+   "name": "Rama Phosphates Limited",
+   "nsc": "RAMAPHO"
+   },
+   {
+   "name": "Rama Steel Tubes Limited",
+   "nsc": "RAMASTEEL"
+   },
+   {
+   "name": "The Ramco Cements Limited",
+   "nsc": "RAMCOCEM"
+   },
+   {
+   "name": "Ramco Industries Limited",
+   "nsc": "RAMCOIND"
+   },
+   {
+   "name": "Ramco Systems Limited",
+   "nsc": "RAMCOSYS"
+   },
+   {
+   "name": "Ramky Infrastructure Limited",
+   "nsc": "RAMKY"
+   },
+   {
+   "name": "Ram Ratna Wires Limited",
+   "nsc": "RAMRAT"
+   },
+   {
+   "name": "Rana Sugars Limited",
+   "nsc": "RANASUG"
+   },
+   {
+   "name": "Rane Engine Valve Limited",
+   "nsc": "RANEENGINE"
+   },
+   {
+   "name": "Rane Holdings Limited",
+   "nsc": "RANEHOLDIN"
+   },
+   {
+   "name": "RateGain Travel Technologies Limited",
+   "nsc": "RATEGAIN"
+   },
+   {
+   "name": "Ratnamani Metals and Tubes Limited",
+   "nsc": "RATNAMANI"
+   },
+   {
+   "name": "Ratnaveer Precision Engineering Limited",
+   "nsc": "RATNAVEER"
+   },
+   {
+   "name": "Raymond Limited",
+   "nsc": "RAYMOND"
+   },
+   {
+   "name": "Raj Bharat Agriculture Limited",
+   "nsc": "RBA"
+   },
+   {
+   "name": "RBL Bank Limited",
+   "nsc": "RBLBANK"
+   },
+   {
+   "name": "Rashtriya Chemicals and Fertilizers Limited",
+   "nsc": "RCF"
+   },
+   {
+   "name": "Reliance Communications Limited",
+   "nsc": "RCOM"
+   },
+   {
+   "name": "Rural Electrification Corporation Limited",
+   "nsc": "RECLTD"
+   },
+   {
+   "name": "Redington Limited",
+   "nsc": "REDINGTON"
+   },
+   {
+   "name": "Redtape Limited",
+   "nsc": "REDTAPE"
+   },
+   {
+   "name": "Refex Industries Limited",
+   "nsc": "REFEX"
+   },
+   {
+   "name": "Regency Ceramics Limited",
+   "nsc": "REGENCERAM"
+   },
+   {
+   "name": "Relaxo Footwears Limited",
+   "nsc": "RELAXO"
+   },
+   {
+   "name": "Reliance Chemotex Industries Limited",
+   "nsc": "RELCHEMQ"
+   },
+   {
+   "name": "Reliance Industries Limited",
+   "nsc": "RELIANCE"
+   },
+   {
+   "name": "Religare Enterprises Limited",
+   "nsc": "RELIGARE"
+   },
+   {
+   "name": "Reliance Infrastructure Limited",
+   "nsc": "RELINFRA"
+   },
+   {
+   "name": "Remsons Industries Limited",
+   "nsc": "REMSONSIND"
+   },
+   {
+   "name": "Shree Renuka Sugars Limited",
+   "nsc": "RENUKA"
+   },
+   {
+   "name": "Repco Home Finance Limited",
+   "nsc": "REPCOHOME"
+   },
+   {
+   "name": "Repro India Limited",
+   "nsc": "REPRO"
+   },
+   {
+   "name": "Responsive Industries Limited",
+   "nsc": "RESPONIND"
+   },
+   {
+   "name": "Renaissance Global Limited",
+   "nsc": "RGL"
+   },
+   {
+   "name": "Reliance Home Finance Limited",
+   "nsc": "RHFL"
+   },
+   {
+   "name": "RHI Magnesita India Limited",
+   "nsc": "RHIM"
+   },
+   {
+   "name": "Rico Auto Industries Limited",
+   "nsc": "RICOAUTO"
+   },
+   {
+   "name": "Reliance Industrial Infrastructure Limited",
+   "nsc": "RIIL"
+   },
+   {
+   "name": "Rishabh Instruments Limited",
+   "nsc": "RISHABH"
+   },
+   {
+   "name": "Ritco Logistics Limited",
+   "nsc": "RITCO"
+   },
+   {
+   "name": "RITES Limited",
+   "nsc": "RITES"
+   },
+   {
+   "name": "RKEC Projects Limited",
+   "nsc": "RKEC"
+   },
+   {
+   "name": "Ramkrishna Forgings Limited",
+   "nsc": "RKFORGE"
+   },
+   {
+   "name": "Rossell India Limited",
+   "nsc": "ROSSELLIND"
+   },
+   {
+   "name": "Roto Pumps Limited",
+   "nsc": "ROTO"
+   },
+   {
+   "name": "Route Mobile Limited",
+   "nsc": "ROUTE"
+   },
+   {
+   "name": "RPG Life Sciences Limited",
+   "nsc": "RPGLIFE"
+   },
+   {
+   "name": "Reliance Power Limited",
+   "nsc": "RPOWER"
+   },
+   {
+   "name": "R.P.P. Infra Projects Limited",
+   "nsc": "RPPINFRA"
+   },
+   {
+   "name": "RPSG Ventures Limited",
+   "nsc": "RPSGVENT"
+   },
+   {
+   "name": "RR Kabel Limited",
+   "nsc": "RRKABEL"
+   },
+   {
+   "name": "R.S. Software (India) Limited",
+   "nsc": "RSSOFTWARE"
+   },
+   {
+   "name": "RSWM Limited",
+   "nsc": "RSWM"
+   },
+   {
+   "name": "R Systems International Limited",
+   "nsc": "RSYSTEMS"
+   },
+   {
+   "name": "RattanIndia Enterprises Limited",
+   "nsc": "RTNINDIA"
+   },
+   {
+   "name": "RattanIndia Power Limited",
+   "nsc": "RTNPOWER"
+   },
+   {
+   "name": "The Ruby Mills Limited",
+   "nsc": "RUBYMILLS"
+   },
+   {
+   "name": "Ruchira Papers Limited",
+   "nsc": "RUCHIRA"
+   },
+   {
+   "name": "Rupa & Company Limited",
+   "nsc": "RUPA"
+   },
+   {
+   "name": "Rushil Decor Limited",
+   "nsc": "RUSHIL"
+   },
+   {
+   "name": "Keystone Realtors Limited",
+   "nsc": "RUSTOMJEE"
+   },
+   {
+   "name": "Rail Vikas Nigam Limited",
+   "nsc": "RVNL"
+   },
+   {
+   "name": "S & S Power Switchgear Limited",
+   "nsc": "S&SPOWER"
+   },
+   {
+   "name": "SAB Events & Governance Now Media Limited",
+   "nsc": "SABEVENTS"
+   },
+   {
+   "name": "Sadbhav Engineering Limited",
+   "nsc": "SADBHAV"
+   },
+   {
+   "name": "Sadbhav Infrastructure Project Limited",
+   "nsc": "SADBHIN"
+   },
+   {
+   "name": "Sadhana Nitrochem Limited",
+   "nsc": "SADHNANIQ"
+   },
+   {
+   "name": "Safari Industries India Limited",
+   "nsc": "SAFARI"
+   },
+   {
+   "name": "Sagar Cements Limited",
+   "nsc": "SAGCEM"
+   },
+   {
+   "name": "Sahyadri Industries Limited",
+   "nsc": "SAHYADRI"
+   },
+   {
+   "name": "Steel Authority of India Limited",
+   "nsc": "SAIL"
+   },
+   {
+   "name": "Sakar Healthcare Limited",
+   "nsc": "SAKAR"
+   },
+   {
+   "name": "Saksoft Limited",
+   "nsc": "SAKSOFT"
+   },
+   {
+   "name": "Sakuma Exports Limited",
+   "nsc": "SAKUMA"
+   },
+   {
+   "name": "Salasar Techno Engineering Limited",
+   "nsc": "SALASAR"
+   },
+   {
+   "name": "Salona Cotspin Limited",
+   "nsc": "SALONA"
+   },
+   {
+   "name": "Salzer Electronics Limited",
+   "nsc": "SALZERELEC"
+   },
+   {
+   "name": "Sambhaav Media Limited",
+   "nsc": "SAMBHAAV"
+   },
+   {
+   "name": "SAMHI Hotels Limited",
+   "nsc": "SAMHI"
+   },
+  {
+   "name": "Sammaan Capital Limited",
+   "nsc": "SAMMAANCAP"
+   },
+  {
+   "name": "Sampann Utpadan India Limited",
+   "nsc": "SAMPANN"
+   },
+  {
+   "name": "Sanco Industries Limited",
+   "nsc": "SANCO"
+   },
+  {
+   "name": "The Sandesh Limited",
+   "nsc": "SANDESH"
+   },
+  {
+   "name": "Sandhar Technologies Limited",
+   "nsc": "SANDHAR"
+   },
+  {
+   "name": "Sandur Manganese & Iron Ores Limited",
+   "nsc": "SANDUMA"
+   },
+  {
+   "name": "Sangam (India) Limited",
+   "nsc": "SANGAMIND"
+   },
+  {
+   "name": "Sanghi Industries Limited",
+   "nsc": "SANGHIIND"
+   },
+  {
+   "name": "Sanghvi Movers Limited",
+   "nsc": "SANGHVIMOV"
+   },
+  {
+   "name": "Sanginita Chemicals Limited",
+   "nsc": "SANGINITA"
+   },
+  {
+   "name": "Sanofi India Limited",
+   "nsc": "SANOFI"
+   },
+  {
+   "name": "Sansera Engineering Limited",
+   "nsc": "SANSERA"
+   },
+  {
+   "name": "Sapphire Foods India Limited",
+   "nsc": "SAPPHIRE"
+   },
+  {
+   "name": "Sarda Energy & Minerals Limited",
+   "nsc": "SARDAEN"
+   },
+  {
+   "name": "Saregama India Limited",
+   "nsc": "SAREGAMA"
+   },
+  {
+   "name": "Sarla Performance Fibers Limited",
+   "nsc": "SARLAPOLY"
+   },
+  {
+   "name": "Sarveshwar Foods Limited",
+   "nsc": "SARVESHWAR"
+   },
+  {
+   "name": "Sasken Technologies Limited",
+   "nsc": "SASKEN"
+   },
+  {
+   "name": "Sastasundar Ventures Limited",
+   "nsc": "SASTASUNDR"
+   },
+  {
+   "name": "Satia Industries Limited",
+   "nsc": "SATIA"
+   },
+  {
+   "name": "Satin Creditcare Network Limited",
+   "nsc": "SATIN"
+   },
+  {
+   "name": "Satin Creditcare Network Limited",
+   "nsc": "SATINDLTD"
+   },
+  {
+   "name": "SBC Exports Limited",
+   "nsc": "SBC"
+   },
+  {
+   "name": "SBFC Finance Limited",
+   "nsc": "SBFC"
+   },
+  {
+   "name": "Shree Bhavya Fabrics Limited",
+   "nsc": "SBGLP"
+   },
+  {
+   "name": "SBI Cards and Payment Services Limited",
+   "nsc": "SBICARD"
+   },
+  {
+   "name": "SBI Life Insurance Company Limited",
+   "nsc": "SBILIFE"
+   },
+  {
+   "name": "State Bank of India",
+   "nsc": "SBIN"
+   },
+  {
+   "name": "Schaeffler India Limited",
+   "nsc": "SCHAEFFLER"
+   },
+  {
+   "name": "S Chand and Company Limited",
+   "nsc": "SCHAND"
+   },
+  {
+   "name": "Schneider Electric Infrastructure Limited",
+   "nsc": "SCHNEIDER"
+   },
+  {
+   "name": "Shipping Corporation of India Limited",
+   "nsc": "SCI"
+   },
+  {
+   "name": "Shilpa Medicare Limited",
+   "nsc": "SCPL"
+   },
+  {
+   "name": "Som Distilleries and Breweries Limited",
+   "nsc": "SDBL"
+   },
+  {
+   "name": "Seamec Limited",
+   "nsc": "SEAMECLTD"
+   },
+  {
+   "name": "SecUR Credentials Limited",
+   "nsc": "SECURCRED"
+   },
+  {
+   "name": "SecureKloud Technologies Limited",
+   "nsc": "SECURKLOUD"
+   },
+  {
+   "name": "Sejal Glass Limited",
+   "nsc": "SEJALLTD"
+   },
+  {
+   "name": "Selan Exploration Technology Limited",
+   "nsc": "SELAN"
+   },
+  {
+   "name": "S.E. Power Limited",
+   "nsc": "SELMC"
+   },
+  {
+   "name": "Semac Consultants Limited",
+   "nsc": "SEMAC"
+   },
+  {
+   "name": "Senco Gold Limited",
+   "nsc": "SENCO"
+   },
+  {
+   "name": "SEPC Limited",
+   "nsc": "SEPC"
+   },
+  {
+   "name": "Sequent Scientific Limited",
+   "nsc": "SEQUENT"
+   },
+  {
+   "name": "Servotech Power Systems Limited",
+   "nsc": "SERVOTECH"
+   },
+  {
+   "name": "Seshasayee Paper and Boards Limited",
+   "nsc": "SESHAPAPER"
+   },
+  {
+   "name": "Setco Automotive Limited",
+   "nsc": "SETCO"
+   },
+  {
+   "name": "Setubandhan Infrastructure Limited",
+   "nsc": "SETUINFRA"
+   },
+  {
+   "name": "Seya Industries Limited",
+   "nsc": "SEYAIND"
+   },
+  {
+   "name": "Sheela Foam Limited",
+   "nsc": "SFL"
+   },
+  {
+   "name": "Shree Global Tradefin Limited",
+   "nsc": "SGIL"
+   },
+  {
+   "name": "SGL Carbon India Limited",
+   "nsc": "SGL"
+   },
+  {
+   "name": "Shah Alloys Limited",
+   "nsc": "SHAH"
+   },
+  {
+   "name": "Shah Alloys Limited",
+   "nsc": "SHAHALLOYS"
+   },
+  {
+   "name": "Shaily Engineering Plastics Limited",
+   "nsc": "SHAILY"
+   },
+  {
+   "name": "Shakti Pumps India Limited",
+   "nsc": "SHAKTIPUMP"
+   },
+  {
+   "name": "Shalby Limited",
+   "nsc": "SHALBY"
+   },
+  {
+   "name": "Shalimar Paints Limited",
+   "nsc": "SHALPAINTS"
+   },
+  {
+   "name": "Shankara Building Products Limited",
+   "nsc": "SHANKARA"
+   },
+  {
+   "name": "Shanthi Educational Initiatives Limited",
+   "nsc": "SHANTI"
+   },
+  {
+   "name": "Shanthi Gears Limited",
+   "nsc": "SHANTIGEAR"
+   },
+  {
+   "name": "Sharda Cropchem Limited",
+   "nsc": "SHARDACROP"
+   },
+  {
+   "name": "Sharda Motor Industries Limited",
+   "nsc": "SHARDAMOTR"
+   },
+  {
+   "name": "Share India Securities Limited",
+   "nsc": "SHAREINDIA"
+   },
+  {
+   "name": "Shemaroo Entertainment Limited",
+   "nsc": "SHEMAROO"
+   },
+  {
+   "name": "Shilpa Medicare Limited",
+   "nsc": "SHILPAMED"
+   },
+  {
+   "name": "Shivalik Bimetal Controls Limited",
+   "nsc": "SHIVALIK"
+   },
+  {
+   "name": "Shivam Autotech Limited",
+   "nsc": "SHIVAMAUTO"
+   },
+  {
+   "name": "Shiva Mills Limited",
+   "nsc": "SHIVAMILLS"
+   },
+  {
+   "name": "Shiva Texyarn Limited",
+   "nsc": "SHIVATEX"
+   },
+  {
+   "name": "S H Kelkar and Company Limited",
+   "nsc": "SHK"
+   },
+  {
+   "name": "Shoppers Stop Limited",
+   "nsc": "SHOPERSTOP"
+   },
+  {
+   "name": "Shradha Infraprojects Limited",
+   "nsc": "SHRADHA"
+   },
+  {
+   "name": "Shree Digvijay Cement Company Limited",
+   "nsc": "SHREDIGCEM"
+   },
+  {
+   "name": "Shree Cement Limited",
+   "nsc": "SHREECEM"
+   },
+  {
+   "name": "Shree Pushkar Chemicals & Fertilisers Limited",
+   "nsc": "SHREEPUSHK"
+   },
+  {
+   "name": "Shree Rama Multi-Tech Limited",
+   "nsc": "SHREERAMA"
+   },
+  {
+   "name": "Shrenik Limited",
+   "nsc": "SHRENIK"
+   },
+  {
+   "name": "Shreyas Intermediates Limited",
+   "nsc": "SHREYANIND"
+   },
+  {
+   "name": "Shriram Pistons and Rings Limited",
+   "nsc": "SHRIPISTON"
+   },
+  {
+   "name": "Shriram Finance Limited",
+   "nsc": "SHRIRAMFIN"
+   },
+  {
+   "name": "Shriram Properties Limited",
+   "nsc": "SHRIRAMPPS"
+   },
+  {
+   "name": "Shyam Century Ferrous Limited",
+   "nsc": "SHYAMCENT"
+   },
+  {
+   "name": "Shyam Metalics and Energy Limited",
+   "nsc": "SHYAMMETL"
+   },
+  {
+   "name": "Shyam Telecom Limited",
+   "nsc": "SHYAMTEL"
+   },
+  {
+   "name": "Siemens Limited",
+   "nsc": "SIEMENS"
+   },
+  {
+   "name": "Sigachi Industries Limited",
+   "nsc": "SIGACHI"
+   },
+  {
+   "name": "Sigma Solve Limited",
+   "nsc": "SIGIND"
+   },
+  {
+   "name": "Sigma Solve Limited",
+   "nsc": "SIGMA"
+   },
+  {
+   "name": "Sikko Industries Limited",
+   "nsc": "SIKKO"
+   },
+  {
+   "name": "SIL Investments Limited",
+   "nsc": "SIL"
+   },
+  {
+   "name": "Silgo Retail Limited",
+   "nsc": "SILGO"
+   },
+  {
+   "name": "SIL Investments Limited",
+   "nsc": "SILINV"
+   },
+  {
+   "name": "Silly Monks Entertainment Limited",
+   "nsc": "SILLYMONKS"
+   },
+  {
+   "name": "Silver Touch Technologies Limited",
+   "nsc": "SILVERTUC"
+   },
+  {
+   "name": "Simbhaoli Sugars Limited",
+   "nsc": "SIMBHALS"
+   },
+  {
+   "name": "Simplex Infrastructures Limited",
+   "nsc": "SIMPLEXINF"
+   },
+  {
+   "name": "Sindhu Trade Links Limited",
+   "nsc": "SINDHUTRAD"
+   },
+  {
+   "name": "Sintercom India Limited",
+   "nsc": "SINTERCOM"
+   },
+  {
+   "name": "Sirca Paints India Limited",
+   "nsc": "SIRCA"
+   },
+  {
+   "name": "SIS Limited",
+   "nsc": "SIS"
+   },
+  {
+   "name": "Siti Networks Limited",
+   "nsc": "SITINET"
+   },
+  {
+   "name": "Siyaram Silk Mills Limited",
+   "nsc": "SIYSIL"
+   },
+  {
+   "name": "SJS Enterprises Limited",
+   "nsc": "SJS"
+   },
+  {
+   "name": "SJVN Limited",
+   "nsc": "SJVN"
+   },
+  {
+   "name": "SKF India Limited",
+   "nsc": "SKFINDIA"
+   },
+  {
+   "name": "SKIL Infrastructure Limited",
+   "nsc": "SKIL"
+   },
+  {
+   "name": "Skipper Limited",
+   "nsc": "SKIPPER"
+   },
+  {
+   "name": "SKM Egg Products Export (India) Limited",
+   "nsc": "SKMEGGPROD"
+   },
+  {
+   "name": "Sky Gold Limited",
+   "nsc": "SKYGOLD"
+   },
+  {
+   "name": "Smartlink Holdings Limited",
+   "nsc": "SMARTLINK"
+   },
+  {
+   "name": "SMC Global Securities Limited",
+   "nsc": "SMCGLOBAL"
+   },
+  {
+   "name": "SML Isuzu Limited",
+   "nsc": "SMLISUZU"
+   },
+  {
+   "name": "Satin Creditcare Network Limited",
+   "nsc": "SMLT"
+   },
+  {
+   "name": "SMS Lifesciences India Limited",
+   "nsc": "SMSLIFE"
+   },
+  {
+   "name": "SMS Pharmaceuticals Limited",
+   "nsc": "SMSPHARMA"
+   },
+  {
+   "name": "Snowman Logistics Limited",
+   "nsc": "SNOWMAN"
+   },
+  {
+   "name": "Sobha Limited",
+   "nsc": "SOBHA"
+   },
+  {
+   "name": "Softtech Engineers Limited",
+   "nsc": "SOFTTECH"
+   },
+  {
+   "name": "Solara Active Pharma Sciences Limited",
+   "nsc": "SOLARA"
+   },
+  {
+   "name": "Solar Industries India Limited",
+   "nsc": "SOLARINDS"
+   },
+  {
+   "name": "Somany Ceramics Limited",
+   "nsc": "SOMANYCERA"
+   },
+  {
+   "name": "Soma Textiles & Industries Limited",
+   "nsc": "SOMATEX"
+   },
+  {
+   "name": "Somi Conveyor Beltings Ltd",
+   "nsc": "SOMICONVEY"
+   },
+   {
+   "name": "Sona BLW Precision Forgings Limited (SONACOMS)",
+   "nsc": "SONACOMS"
+   },
+   {
+   "name": "Sonam Ltd",
+   "nsc": "SONAMLTD"
+   },
+   {
+   "name": "Sonata Software Limited",
+   "nsc": "SONATSOFTW"
+   },
+   {
+   "name": "Savita Oil Technologies Limited (SOTL)",
+   "nsc": "SOTL"
+   },
+   {
+   "name": "The South Indian Bank Limited",
+   "nsc": "SOUTHBANK"
+   },
+   {
+   "name": "South West Pinnacle Exploration Limited",
+   "nsc": "SOUTHWEST"
+   },
+   {
+   "name": "S.P. Apparels Limited",
+   "nsc": "SPAL"
+   },
+   {
+   "name": "Spandana Sphoorty Financial Limited",
+   "nsc": "SPANDANA"
+   },
+   {
+   "name": "Sun Pharma Advanced Research Company Limited",
+   "nsc": "SPARC"
+   },
+   {
+   "name": "Spacenet Enterprises India Limited",
+   "nsc": "SPCENET"
+   },
+   {
+   "name": "Speciality Restaurants Limited",
+   "nsc": "SPECIALITY"
+   },
+   {
+   "name": "Spencer's Retail Limited",
+   "nsc": "SPENCERS"
+   },
+   {
+   "name": "Spentex Industries Limited",
+   "nsc": "SPENTEX"
+   },
+   {
+   "name": "Southern Petrochemical Industries Corporation Limited",
+   "nsc": "SPIC"
+   },
+   {
+   "name": "SpiceJet Limited",
+   "nsc": "SPICEJET"
+   },
+   {
+   "name": "Sigachi Industries Limited",
+   "nsc": "SPLIL"
+   },
+   {
+   "name": "Supreme Petrochem Limited",
+   "nsc": "SPLPETRO"
+   },
+   {
+   "name": "SPML Infra Limited",
+   "nsc": "SPMLINFRA"
+   },
+   {
+   "name": "Sportking India Limited",
+   "nsc": "SPORTKING"
+   },
+   {
+   "name": "Shree Pushkar Chemicals & Fertilisers Limited",
+   "nsc": "SPTL"
+   },
+   {
+   "name": "Sreeleathers Limited",
+   "nsc": "SREEL"
+   },
+   {
+   "name": "SRF Limited",
+   "nsc": "SRF"
+   },
+   {
+   "name": "SREI Infrastructure Finance Limited",
+   "nsc": "SRGHFL"
+   },
+   {
+   "name": "Sree Rayalaseema Hi-Strength Hypo Limited",
+   "nsc": "SRHHYPOLTD"
+   },
+   {
+   "name": "Shree Rama Multi-Tech Limited",
+   "nsc": "SRPL"
+   },
+   {
+   "name": "Steel Strips Wheels Limited",
+   "nsc": "SSWL"
+   },
+   {
+   "name": "Strides Pharma Science Limited",
+   "nsc": "STAR"
+   },
+   {
+   "name": "Star Cement Limited",
+   "nsc": "STARCEMENT"
+   },
+   {
+   "name": "Star Health and Allied Insurance Company Limited",
+   "nsc": "STARHEALTH"
+   },
+   {
+   "name": "Star Paper Mills Limited",
+   "nsc": "STARPAPER"
+   },
+   {
+   "name": "Starteck Finance Limited",
+   "nsc": "STARTECK"
+   },
+   {
+   "name": "The State Trading Corporation of India Limited",
+   "nsc": "STCINDIA"
+   },
+   {
+   "name": "Steelcast Limited",
+   "nsc": "STEELCAS"
+   },
+   {
+   "name": "Steel City Securities Limited",
+   "nsc": "STEELCITY"
+   },
+   {
+   "name": "Steel Exchange India Limited",
+   "nsc": "STEELXIND"
+   },
+   {
+   "name": "ST Elastomers Limited",
+   "nsc": "STEL"
+   },
+   {
+   "name": "Sterling Tools Limited",
+   "nsc": "STERTOOLS"
+   },
+   {
+   "name": "Sterlite Technologies Limited",
+   "nsc": "STLTECH"
+   },
+   {
+   "name": "Stove Kraft Limited",
+   "nsc": "STOVEKRAFT"
+   },
+   {
+   "name": "Stylam Industries Limited",
+   "nsc": "STYLAMIND"
+   },
+   {
+   "name": "Styrenix Performance Materials Limited",
+   "nsc": "STYRENIX"
+   },
+   {
+   "name": "Subex Limited",
+   "nsc": "SUBEXLTD"
+   },
+   {
+   "name": "Subros Limited",
+   "nsc": "SUBROS"
+   },
+   {
+   "name": "Sudarshan Chemical Industries Limited",
+   "nsc": "SUDARSCHEM"
+   },
+   {
+   "name": "Sukhjit Starch & Chemicals Limited",
+   "nsc": "SUKHJITS"
+   },
+   {
+   "name": "Sula Vineyards Limited",
+   "nsc": "SULA"
+   },
+   {
+   "name": "Sumeet Industries Limited",
+   "nsc": "SUMEETINDS"
+   },
+   {
+   "name": "Sumitomo Chemical India Limited",
+   "nsc": "SUMICHEM"
+   },
+   {
+   "name": "Sumit Woods Limited",
+   "nsc": "SUMIT"
+   },
+   {
+   "name": "Summit Securities Limited",
+   "nsc": "SUMMITSEC"
+   },
+   {
+   "name": "Sundaram Finance Holdings Limited",
+   "nsc": "SUNDARAM"
+   },
+   {
+   "name": "Sundaram Finance Limited",
+   "nsc": "SUNDARMFIN"
+   },
+   {
+   "name": "TVS Holdings Limited",
+   "nsc": "SUNDARMHLD"
+   },
+   {
+   "name": "Sundaram Brake Linings Limited",
+   "nsc": "SUNDRMBRAK"
+   },
+   {
+   "name": "Sundram Fasteners Limited",
+   "nsc": "SUNDRMFAST"
+   },
+   {
+   "name": "Sunflag Iron and Steel Company Limited",
+   "nsc": "SUNFLAG"
+   },
+   {
+   "name": "Sun Pharmaceutical Industries Limited",
+   "nsc": "SUNPHARMA"
+   },
+   {
+   "name": "Sunteck Realty Limited",
+   "nsc": "SUNTECK"
+   },
+   {
+   "name": "Sun TV Network Limited",
+   "nsc": "SUNTV"
+   },
+   {
+   "name": "Superhouse Limited",
+   "nsc": "SUPERHOUSE"
+   },
+   {
+   "name": "Super Spinning Mills Limited",
+   "nsc": "SUPERSPIN"
+   },
+   {
+   "name": "Suprajit Engineering Limited",
+   "nsc": "SUPRAJIT"
+   },
+   {
+   "name": "Supreme Engineering Limited",
+   "nsc": "SUPREMEENG"
+   },
+   {
+   "name": "Supreme Industries Limited",
+   "nsc": "SUPREMEIND"
+   },
+   {
+   "name": "Supreme Infrastructure India Limited",
+   "nsc": "SUPREMEINF"
+   },
+   {
+   "name": "Supriya Lifescience Limited",
+   "nsc": "SUPRIYA"
+   },
+   {
+   "name": "Surana Solar Limited",
+   "nsc": "SURANASOL"
+   },
+   {
+   "name": "Surana Telecom and Power Limited",
+   "nsc": "SURANAT&P"
+   },
+   {
+   "name": "Suryalakshmi Cotton Mills Limited",
+   "nsc": "SURYALAXMI"
+   },
+   {
+   "name": "Surya Roshni Limited",
+   "nsc": "SURYAROSNI"
+   },
+   {
+   "name": "Suryoday Small Finance Bank Limited",
+   "nsc": "SURYODAY"
+   },
+   {
+   "name": "Sutlej Textiles and Industries Limited",
+   "nsc": "SUTLEJTEX"
+   },
+   {
+   "name": "Suven Life Sciences Limited",
+   "nsc": "SUVEN"
+   },
+   {
+   "name": "Suven Pharmaceuticals Limited",
+   "nsc": "SUVENPHAR"
+   },
+   {
+   "name": "Suvidhaa Infoserve Limited",
+   "nsc": "SUVIDHAA"
+   },
+   {
+   "name": "Suzlon Energy Limited",
+   "nsc": "SUZLON"
+   },
+   {
+   "name": "Shree Vasu Logistics Limited",
+   "nsc": "SVLL"
+   },
+   {
+   "name": "SVP Global Textiles Limited",
+   "nsc": "SVPGLOB"
+   },
+   {
+   "name": "Swan Energy Limited",
+   "nsc": "SWANENERGY"
+   },
+   {
+   "name": "Swaraj Engines Limited",
+   "nsc": "SWARAJENG"
+   },
+   {
+   "name": "Swelect Energy Systems Limited",
+   "nsc": "SWELECTES"
+   },
+   {
+   "name": "Sterling and Wilson Renewable Energy Limited",
+   "nsc": "SWSOLAR"
+   },
+   {
+   "name": "Symphony Limited",
+   "nsc": "SYMPHONY"
+   },
+   {
+   "name": "Syncom Formulations (India) Limited",
+   "nsc": "SYNCOMF"
+   },
+   {
+   "name": "Syngene International Limited",
+   "nsc": "SYNGENE"
+   },
+   {
+   "name": "Syrma SGS Technology Limited",
+   "nsc": "SYRMA"
+   },
+   {
+   "name": "Tainwala Chemicals and Plastics (India) Ltd",
+   "nsc": "TAINWALCHM"
+   },
+   {
+   "name": "TAJGVK Hotels and Resorts Limited",
+   "nsc": "TAJGVK"
+   },
+   {
+   "name": "Take Solutions Limited",
+   "nsc": "TAKE"
+   },
+   {
+   "name": "Talbros Automotive Components Limited",
+   "nsc": "TALBROAUTO"
+   },
+   {
+   "name": "Tanla Platforms Limited",
+   "nsc": "TANLA"
+   },
+   {
+   "name": "Tarapur Transformers Limited",
+   "nsc": "TARAPUR"
+   },
+   {
+   "name": "TARC Limited",
+   "nsc": "TARC"
+   },
+   {
+   "name": "Tarson Products Limited",
+   "nsc": "TARIL"
+   },
+   {
+   "name": "Tarmat Limited",
+   "nsc": "TARMAT"
+   },
+   {
+   "name": "Tarsons Products Limited",
+   "nsc": "TARSONS"
+   },
+   {
+   "name": "Tasty Bite Eatables Limited",
+   "nsc": "TASTYBITE"
+   },
+   {
+   "name": "Tata Chemicals Limited",
+   "nsc": "TATACHEM"
+   },
+   {
+   "name": "Tata Communications Limited",
+   "nsc": "TATACOMM"
+   },
+   {
+   "name": "Tata Consumer Products Limited",
+   "nsc": "TATACONSUM"
+   },
+   {
+   "name": "Tata Elxsi Limited",
+   "nsc": "TATAELXSI"
+   },
+   {
+   "name": "Tata Investment Corporation Limited",
+   "nsc": "TATAINVEST"
+   },
+   {
+   "name": "Tata Motors Limited",
+   "nsc": "TATAMOTORS"
+   },
+   {
+   "name": "Tata Power Company Limited",
+   "nsc": "TATAPOWER"
+   },
+   {
+   "name": "Tata Steel Limited",
+   "nsc": "TATASTEEL"
+   },
+   {
+   "name": "Tatva Chintan Pharma Chem Limited",
+   "nsc": "TATVA"
+   },
+   {
+   "name": "Tribhovandas Bhimji Zaveri Limited",
+   "nsc": "TBZ"
+   },
+   {
+   "name": "Transport Corporation of India Limited",
+   "nsc": "TCI"
+   },
+   {
+   "name": "TCI Express Limited",
+   "nsc": "TCIEXP"
+   },
+   {
+   "name": "TCI Finance Limited",
+   "nsc": "TCIFINANCE"
+   },
+   {
+   "name": "TCPL Packaging Limited",
+   "nsc": "TCPLPACK"
+   },
+   {
+   "name": "Tata Consultancy Services Limited",
+   "nsc": "TCS"
+   },
+   {
+   "name": "TD Power Systems Limited",
+   "nsc": "TDPOWERSYS"
+   },
+   {
+   "name": "TeamLease Services Limited",
+   "nsc": "TEAMLEASE"
+   },
+   {
+   "name": "Tech Mahindra Limited",
+   "nsc": "TECHM"
+   },
+   {
+   "name": "Techno Electric & Engineering Company Limited",
+   "nsc": "TECHNOE"
+   },
+   {
+   "name": "Tecil Chemicals & Hydropower Limited",
+   "nsc": "TECILCHEM"
+   },
+   {
+   "name": "Tega Industries Limited",
+   "nsc": "TEGA"
+   },
+   {
+   "name": "Tejas Networks Limited",
+   "nsc": "TEJASNET"
+   },
+   {
+   "name": "Tembo Global Industries Limited",
+   "nsc": "TEMBO"
+   },
+   {
+   "name": "Tera Software Limited",
+   "nsc": "TERASOFT"
+   },
+   {
+   "name": "Texmaco Infrastructure & Holdings Limited",
+   "nsc": "TEXINFRA"
+   },
+   {
+   "name": "Texmo Pipes and Products Limited",
+   "nsc": "TEXMOPIPES"
+   },
+   {
+   "name": "Texmaco Rail & Engineering Limited",
+   "nsc": "TEXRAIL"
+   },
+   {
+   "name": "Tourism Finance Corporation of India Limited",
+   "nsc": "TFCILTD"
+   },
+   {
+   "name": "Transwarranty Finance Limited",
+   "nsc": "TFL"
+   },
+   {
+   "name": "TGB Banquets & Hotels Limited",
+   "nsc": "TGBHOTELS"
+   },
+   {
+   "name": "Thangamayil Jewellery Limited",
+   "nsc": "THANGAMAYL"
+   },
+   {
+   "name": "The Investment Trust of India Limited",
+   "nsc": "THEINVEST"
+   },
+   {
+   "name": "Themis Medicare Limited",
+   "nsc": "THEMISMED"
+   },
+   {
+   "name": "Thermax Limited",
+   "nsc": "THERMAX"
+   },
+   {
+   "name": "Thomas Cook (India) Limited",
+   "nsc": "THOMASCOOK"
+   },
+   {
+   "name": "Thomas Scott (India) Limited",
+   "nsc": "THOMASCOTT"
+   },
+  {
+   "name": "Thyrocare Technologies Limited",
+   "nsc": "THYROCARE"
+   },
+   {
+   "name": "Tilaknagar Industries Limited",
+   "nsc": "TI"
+   },
+   {
+   "name": "Tide Water Oil Co (India) Limited",
+   "nsc": "TIDEWATER"
+   },
+   {
+   "name": "Technocraft Industries (India) Limited",
+   "nsc": "TIIL"
+   },
+   {
+   "name": "Tube Investments of India Limited",
+   "nsc": "TIINDIA"
+   },
+   {
+   "name": "Tijaria Polypipes Limited",
+   "nsc": "TIJARIA"
+   },
+   {
+   "name": "TIL Limited",
+   "nsc": "TIL"
+   },
+   {
+   "name": "Times Guaranty Limited",
+   "nsc": "TIMESGTY"
+   },
+   {
+   "name": "Time Technoplast Limited",
+   "nsc": "TIMETECHNO"
+   },
+   {
+   "name": "Timken India Limited",
+   "nsc": "TIMKEN"
+   },
+   {
+   "name": "TIPS Films Limited",
+   "nsc": "TIPSFILMS"
+   },
+   {
+   "name": "Tirumalai Chemicals Limited",
+   "nsc": "TIRUMALCHM"
+   },
+   {
+   "name": "Tirupati Forge Limited",
+   "nsc": "TIRUPATIFL"
+   },
+   {
+   "name": "Titagarh Wagons Limited",
+   "nsc": "TITAGARH"
+   },
+   {
+   "name": "Titan Company Limited",
+   "nsc": "TITAN"
+   },
+   {
+   "name": "Tamilnad Mercantile Bank Limited",
+   "nsc": "TMB"
+   },
+   {
+   "name": "Tamilnadu Petroproducts Limited",
+   "nsc": "TNPETRO"
+   },
+   {
+   "name": "Tamil Nadu Newsprint & Papers Limited",
+   "nsc": "TNPL"
+   },
+   {
+   "name": "Tamilnadu Telecom Limited",
+   "nsc": "TNTELE"
+   },
+   {
+   "name": "Tokyo Plast International Limited",
+   "nsc": "TOKYOPLAST"
+   },
+   {
+   "name": "Torrent Pharmaceuticals Limited",
+   "nsc": "TORNTPHARM"
+   },
+   {
+   "name": "Torrent Power Limited",
+   "nsc": "TORNTPOWER"
+   },
+   {
+   "name": "Total Transport Systems Limited",
+   "nsc": "TOTAL"
+   },
+   {
+   "name": "Touchwood Entertainment Limited",
+   "nsc": "TOUCHWOOD"
+   },
+   {
+   "name": "TPL Plastech Limited",
+   "nsc": "TPLPLASTEH"
+   },
+   {
+   "name": "Tracxn Technologies Limited",
+   "nsc": "TRACXN"
+   },
+   {
+   "name": "Tree House Education & Accessories Limited",
+   "nsc": "TREEHOUSE"
+   },
+   {
+   "name": "Trejhara Solutions Limited",
+   "nsc": "TREJHARA"
+   },
+   {
+   "name": "Trent Limited",
+   "nsc": "TRENT"
+   },
+   {
+   "name": "TRF Limited",
+   "nsc": "TRF"
+   },
+   {
+   "name": "Trident Limited",
+   "nsc": "TRIDENT"
+   },
+   {
+   "name": "Trigyn Technologies Limited",
+   "nsc": "TRIGYN"
+   },
+   {
+   "name": "Triveni Turbine Limited",
+   "nsc": "TRITURBINE"
+   },
+   {
+   "name": "Triveni Engineering & Industries Limited",
+   "nsc": "TRIVENI"
+   },
+   {
+   "name": "TruCap Finance Limited",
+   "nsc": "TRU"
+   },
+   {
+   "name": "TTK Healthcare Limited",
+   "nsc": "TTKHLTCARE"
+   },
+   {
+   "name": "TTK Prestige Limited",
+   "nsc": "TTKPRESTIG"
+   },
+   {
+   "name": "T T Limited",
+   "nsc": "TTL"
+   },
+   {
+   "name": "Tata Teleservices (Maharashtra) Limited",
+   "nsc": "TTML"
+   },
+   {
+   "name": "TV18 Broadcast Limited",
+   "nsc": "TV18BRDCST"
+   },
+   {
+   "name": "TVS Electronics Limited",
+   "nsc": "TVSELECT"
+   },
+   {
+   "name": "TVS Holdings Limited",
+   "nsc": "TVSHLTD"
+   },
+   {
+   "name": "TVS Motor Company Limited",
+   "nsc": "TVSMOTOR"
+   },
+   {
+   "name": "TVS Supply Chain Solutions Limited",
+   "nsc": "TVSSCS"
+   },
+   {
+   "name": "TVS Srichakra Limited",
+   "nsc": "TVSSRICHAK"
+   },
+   {
+   "name": "TV Today Network Limited",
+   "nsc": "TVTODAY"
+   },
+   {
+   "name": "TV Vision Limited",
+   "nsc": "TVVISION"
+   },
+   {
+   "name": "Tilaknagar Industries Limited",
+   "nsc": "TWL"
+   },
+   {
+   "name": "United Breweries Limited",
+   "nsc": "UBL"
+   },
+   {
+   "name": "UCAL Fuel Systems Limited",
+   "nsc": "UCAL"
+   },
+   {
+   "name": "UCO Bank",
+   "nsc": "UCOBANK"
+   },
+   {
+   "name": "Udaipur Cement Works Limited",
+   "nsc": "UDAICEMENT"
+   },
+   {
+   "name": "Usha Martin Education & Solutions Limited",
+   "nsc": "UEL"
+   },
+   {
+   "name": "UFLEX Limited",
+   "nsc": "UFLEX"
+   },
+   {
+   "name": "UFO Moviez India Limited",
+   "nsc": "UFO"
+   },
+   {
+   "name": "The Ugar Sugar Works Limited",
+   "nsc": "UGARSUGAR"
+   },
+   {
+   "name": "Ugro Capital Limited",
+   "nsc": "UGROCAP"
+   },
+   {
+   "name": "Ujjivan Small Finance Bank Limited",
+   "nsc": "UJJIVANSFB"
+   },
+   {
+   "name": "UltraTech Cement Limited",
+   "nsc": "ULTRACEMCO"
+   },
+   {
+   "name": "Uma Exports Limited",
+   "nsc": "UMAEXPORTS"
+   },
+   {
+   "name": "Umang Dairies Limited",
+   "nsc": "UMANGDAIRY"
+   },
+   {
+   "name": "Usha Martin Limited",
+   "nsc": "UMESLTD"
+   },
+   {
+   "name": "Unichem Laboratories Limited",
+   "nsc": "UNICHEMLAB"
+   },
+   {
+   "name": "Unitech Limited",
+   "nsc": "UNIDT"
+   },
+   {
+   "name": "Uniphos Enterprises Limited",
+   "nsc": "UNIENTER"
+   },
+   {
+   "name": "Uniinfo Telecom Services Limited",
+   "nsc": "UNIINFO"
+   },
+   {
+   "name": "Union Bank of India",
+   "nsc": "UNIONBANK"
+   },
+   {
+   "name": "Uniparts India Limited",
+   "nsc": "UNIPARTS"
+   },
+   {
+   "name": "United Polyfab Limited",
+   "nsc": "UNITEDPOLY"
+   },
+   {
+   "name": "The United Nilgiri Tea Estates Company Limited",
+   "nsc": "UNITEDTEA"
+   },
+   {
+   "name": "Univastu India Limited",
+   "nsc": "UNIVASTU"
+   },
+   {
+   "name": "Universal Cables Limited",
+   "nsc": "UNIVCABLES"
+   },
+   {
+   "name": "Universus Photo Imagings Limited",
+   "nsc": "UNIVPHOTO"
+   },
+   {
+   "name": "Uno Minda Limited",
+   "nsc": "UNOMINDA"
+   },
+   {
+   "name": "UPL Limited",
+   "nsc": "UPL"
+   },
+   {
+   "name": "Uravi T & Wedge Lamps Limited",
+   "nsc": "URAVI"
+   },
+   {
+   "name": "Urja Global Limited",
+   "nsc": "URJA"
+   },
+   {
+   "name": "Usha Martin Limited",
+   "nsc": "USHAMART"
+   },
+   {
+   "name": "USK Exports Limited",
+   "nsc": "USK"
+   },
+   {
+   "name": "UTI Asset Management Company Limited",
+   "nsc": "UTIAMC"
+   },
+  {
+   "name": "Utkarsh Small Finance Bank Limited",
+   "nsc": "UTKARSHBNK"
+   },
+   {
+   "name": "Uttam Sugar Mills Limited",
+   "nsc": "UTTAMSUGAR"
+   },
+   {
+   "name": "V2 Retail Limited",
+   "nsc": "V2RETAIL"
+   },
+   {
+   "name": "Vadilal Industries Limited",
+   "nsc": "VADILALIND"
+   },
+   {
+   "name": "Vaibhav Global Limited",
+   "nsc": "VAIBHAVGBL"
+   },
+   {
+   "name": "Vaishali Pharma Limited",
+   "nsc": "VAISHALI"
+   },
+   {
+   "name": "Vakrangee Limited",
+   "nsc": "VAKRANGEE"
+   },
+   {
+   "name": "Valiant Organics Limited",
+   "nsc": "VALIANTORG"
+   },
+   {
+   "name": "Vardhman Acrylics Limited",
+   "nsc": "VARDHACRLC"
+   },
+   {
+   "name": "Vardhman Polytex Limited",
+   "nsc": "VARDMNPOLY"
+   },
+   {
+   "name": "Varroc Engineering Limited",
+   "nsc": "VARROC"
+   },
+   {
+   "name": "Vascon Engineers Limited",
+   "nsc": "VASCONEQ"
+   },
+   {
+   "name": "Vaswani Industries Limited",
+   "nsc": "VASWANI"
+   },
+   {
+   "name": "Varun Beverages Limited",
+   "nsc": "VBL"
+   },
+   {
+   "name": "Vinyl Chemicals (India) Limited",
+   "nsc": "VCL"
+   },
+   {
+   "name": "Vedanta Limited",
+   "nsc": "VEDL"
+   },
+   {
+   "name": "Venkys (India) Limited",
+   "nsc": "VENKEYS"
+   },
+   {
+   "name": "Venus Pipes and Tubes Limited",
+   "nsc": "VENUSPIPES"
+   },
+   {
+   "name": "Venus Remedies Limited",
+   "nsc": "VENUSREM"
+   },
+   {
+   "name": "Veranda Learning Solutions Limited",
+   "nsc": "VERANDA"
+   },
+   {
+   "name": "Vertoz Advertising Limited",
+   "nsc": "VERTOZ"
+   },
+   {
+   "name": "Vesuvius India Limited",
+   "nsc": "VESUVIUS"
+   },
+   {
+   "name": "Veto Switchgears & Cables Limited",
+   "nsc": "VETO"
+   },
+   {
+   "name": "V-Guard Industries Limited",
+   "nsc": "VGUARD"
+   },
+   {
+   "name": "Vipul Limited",
+   "nsc": "VHL"
+   },
+   {
+   "name": "Vidhi Specialty Food Ingredients Limited",
+   "nsc": "VIDHIING"
+   },
+   {
+   "name": "Vijaya Diagnostic Centre Limited",
+   "nsc": "VIJAYA"
+   },
+   {
+   "name": "Viji Finance Limited",
+   "nsc": "VIJIFIN"
+   },
+   {
+   "name": "Vikas EcoTech Limited",
+   "nsc": "VIKASECO"
+   },
+   {
+   "name": "Vikas Lifecare Limited",
+   "nsc": "VIKASLIFE"
+   },
+   {
+   "name": "Vimta Labs Limited",
+   "nsc": "VIMTALABS"
+   },
+   {
+   "name": "Vinati Organics Limited",
+   "nsc": "VINATIORGA"
+   },
+   {
+   "name": "Vindhya Telelinks Limited",
+   "nsc": "VINDHYATEL"
+   },
+   {
+   "name": "Vineet Laboratories Limited",
+   "nsc": "VINEETLAB"
+   },
+   {
+   "name": "Vinny Overseas Limited",
+   "nsc": "VINNY"
+   },
+   {
+   "name": "Vinyl Chemicals (India) Limited",
+   "nsc": "VINYLINDIA"
+   },
+   {
+   "name": "VIP Clothing Limited",
+   "nsc": "VIPCLOTHNG"
+   },
+   {
+   "name": "VIP Industries Limited",
+   "nsc": "VIPIND"
+   },
+   {
+   "name": "Vipul Limited",
+   "nsc": "VIPULLTD"
+   },
+   {
+   "name": "Virinchi Limited",
+   "nsc": "VIRINCHI"
+   },
+   {
+   "name": "Visaka Industries Limited",
+   "nsc": "VISAKAIND"
+   },
+   {
+   "name": "Visa Steel Limited",
+   "nsc": "VISASTEEL"
+   },
+   {
+   "name": "Vishnu Chemicals Limited",
+   "nsc": "VISHNU"
+   },
+   {
+   "name": "Vishwaraj Sugar Industries Limited",
+   "nsc": "VISHWARAJ"
+   },
+   {
+   "name": "Vishal Fabrics Limited",
+   "nsc": "VIVIDHA"
+   },
+   {
+   "name": "Vlegov Limited",
+   "nsc": "VLEGOV"
+   },
+   {
+   "name": "VLS Finance Limited",
+   "nsc": "VLSFINANCE"
+   },
+   {
+   "name": "V-Mart Retail Limited",
+   "nsc": "VMART"
+   },
+   {
+   "name": "Voltamp Transformers Limited",
+   "nsc": "VOLTAMP"
+   },
+   {
+   "name": "Voltas Limited",
+   "nsc": "VOLTAS"
+   },
+   {
+   "name": "VPR Mining Infrastructure Private Limited",
+   "nsc": "VPRPL"
+   },
+   {
+   "name": "VRL Logistics Limited",
+   "nsc": "VRLLOG"
+   },
+   {
+   "name": "Vikas Lifecare Limited",
+   "nsc": "VSSL"
+   },
+   {
+   "name": "VST Industries Limited",
+   "nsc": "VSTIND"
+   },
+   {
+   "name": "VST Tillers Tractors Limited",
+   "nsc": "VSTTILLERS"
+   },
+   {
+   "name": "Vardhman Textiles Limited",
+   "nsc": "VTL"
+   },
+   {
+   "name": "VA Tech Wabag Limited",
+   "nsc": "WABAG"
+   },
+   {
+   "name": "Walchandnagar Industries Limited",
+   "nsc": "WALCHANNAG"
+   },
+   {
+   "name": "Wanbury Limited",
+   "nsc": "WANBURY"
+   },
+   {
+   "name": "Wealth First Portfolio Managers Limited",
+   "nsc": "WEALTH"
+   },
+   {
+   "name": "Websol Energy System Limited",
+   "nsc": "WEBELSOLAR"
+   },
+   {
+   "name": "Weizmann Limited",
+   "nsc": "WEIZMANIND"
+   },
+   {
+   "name": "Welspun Living Limited",
+   "nsc": "WEL"
+   },
+   {
+   "name": "Welspun Corp Limited",
+   "nsc": "WELCORP"
+   },
+   {
+   "name": "Welspun Enterprises Limited",
+   "nsc": "WELENT"
+   },
+   {
+   "name": "Welspun Investments and Commercials Limited",
+   "nsc": "WELINV"
+   },
+   {
+   "name": "Welspun Living Limited",
+   "nsc": "WELSPUNLIV"
+   },
+   {
+   "name": "Wendt (India) Limited",
+   "nsc": "WENDT"
+   },
+   {
+   "name": "Westlife Foodworld Limited",
+   "nsc": "WESTLIFE"
+   },
+   {
+   "name": "We Win Limited",
+   "nsc": "WEWIN"
+   },
+   {
+   "name": "Wheels India Limited",
+   "nsc": "WHEELS"
+   },
+   {
+   "name": "Whirlpool of India Limited",
+   "nsc": "WHIRLPOOL"
+   },
+   {
+   "name": "Williamson Magor & Company Limited",
+   "nsc": "WILLAMAGOR"
+   },
+   {
+   "name": "Windlas Biotech Limited",
+   "nsc": "WINDLAS"
+   },
+   {
+   "name": "Windsor Machines Limited",
+   "nsc": "WINDMACHIN"
+   },
+   {
+   "name": "Winsome Yarns Limited",
+   "nsc": "WINSOME"
+   },
+   {
+   "name": "The Western India Plywoods Limited",
+   "nsc": "WIPL"
+   },
+   {
+   "name": "Wipro Limited",
+   "nsc": "WIPRO"
+   },
+   {
+   "name": "Wockhardt Limited",
+   "nsc": "WOCKPHARMA"
+   },
+   {
+   "name": "Wonderla Holidays Limited",
+   "nsc": "WONDERLA"
+   },
+   {
+   "name": "Worth Peripherals Limited",
+   "nsc": "WORTH"
+   },
+   {
+   "name": "W.S. Industries (India) Limited",
+   "nsc": "WSI"
+   },
+   {
+   "name": "West Coast Paper Mills Limited",
+   "nsc": "WSTCSTPAPR"
+   },
+   {
+   "name": "Xchanging Solutions Limited",
+   "nsc": "XCHANGING"
+   },
+   {
+   "name": "Xelpmoc Design and Tech Limited",
+   "nsc": "XELPMOC"
+   },
+   {
+   "name": "Xpro India Limited",
+   "nsc": "XPROINDIA"
+   },
+   {
+   "name": "Yaari Digital Integrated Services Limited",
+   "nsc": "YAARI"
+   },
+   {
+   "name": "Yasho Industries Limited",
+   "nsc": "YASHO"
+   },
+   {
+   "name": "Yatharth Hospital and Trauma Care Services Limited",
+   "nsc": "YATHARTH"
+   },
+   {
+   "name": "Yatra Online Limited",
+   "nsc": "YATRA"
+   },
+   {
+   "name": "Yes Bank Limited",
+   "nsc": "YESBANK"
+   },
+   {
+   "name": "Yuken India Limited",
+   "nsc": "YUKEN"
+   },
+   {
+   "name": "Zaggle Prepaid Ocean Services Limited",
+   "nsc": "ZAGGLE"
+   },
+   {
+   "name": "Zee Entertainment Enterprises Limited",
+   "nsc": "ZEEL"
+   },
+   {
+   "name": "Zee Learn Limited",
+   "nsc": "ZEELEARN"
+   },
+   {
+   "name": "Zee Media Corporation Limited",
+   "nsc": "ZEEMEDIA"
+   },
+   {
+   "name": "Zenith Exports Limited",
+   "nsc": "ZENITHEXPO"
+   },
+   {
+   "name": "Zenith Steel Pipes & Industries Limited",
+   "nsc": "ZENITHSTL"
+   },
+   {
+   "name": "Zensar Technologies Limited",
+   "nsc": "ZENSARTECH"
+   },
+   {
+   "name": "Zen Technologies Limited",
+   "nsc": "ZENTEC"
+   },
+   {
+   "name": "ZF Commercial Vehicle Control Systems India Limited",
+   "nsc": "ZFCVINDIA"
+   },
+   {
+   "name": "Zim Laboratories Limited",
+   "nsc": "ZIMLAB"
+   },
+   {
+   "name": "Zodiac Clothing Company Limited",
+   "nsc": "ZODIAC"
+   },
+   {
+   "name": "Zodiac Clothing Company Limited",
+   "nsc": "ZODIACLOTH"
+   },
+   {
+   "name": "Zomato Limited",
+   "nsc": "ZOMATO"
+   },
+   {
+   "name": "Zota Health Care Limited",
+   "nsc": "ZOTA"
+   },
+   {
+   "name": "Zuari Industries Limited",
+   "nsc": "ZUARI"
+   },
+   {
+   "name": "Zuari Industries Limited",
+   "nsc": "ZUARIIND"
+   },
+   {
+   "name": "Zydus Lifesciences Limited",
+   "nsc": "ZYDUSLIFE"
+   },
+   {
+   "name": "Zydus Wellness Limited",
+   "nsc": "ZYDUSWELL"
+   }
+  ]
