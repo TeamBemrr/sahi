@@ -12,7 +12,7 @@ const CONFIG = {
   groqModel: 'deepseek-r1-distill-llama-70b',
   apiInterval: 30000,
   maxRetries: 3,
-  maxPages: 5,
+  maxPages: 50,
   scrollDelay: 200,
   pageLoadDelay: 3000
 };
@@ -108,7 +108,7 @@ class NewsProcessor {
                 'Authorization': `Bearer ${CONFIG.groqApiKey}`,
                 'Content-Type': 'application/json'
               },
-              timeout: 30000
+              timeout: 15000
             }
           );
           return this.parseResponse(response);
