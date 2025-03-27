@@ -12,7 +12,7 @@ const CONFIG = {
   groqModel: 'deepseek-r1-distill-llama-70b',
   apiInterval: 30000,
   maxRetries: 3,
-  maxPages: 50,
+  maxPages: 7,
   scrollDelay: 200,
   pageLoadDelay: 3000
 };
@@ -167,7 +167,8 @@ class NewsProcessor {
           company: data.company_name,
           nsc: data.nsc,
           confidence: data.confidence,
-          news_date: data.news_date
+          // news_date: data.news_date,
+          news_date: new Date().toISOString().split('T')[0]
         };
   
         const response = await axios.post(CONFIG.wpApiUrl, payload, {
